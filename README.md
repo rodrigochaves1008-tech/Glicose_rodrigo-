@@ -1,5 +1,7 @@
 # Glicose Rodrigo
 
+Leitor: **Accu-Chek SmartGuide** (Roche) — sensor de 14 dias no braço. Guia de aplicação: `guias/aplicacao-sensor.html`.
+
 Projeto pessoal para acompanhar a glicose e o dia a dia (alimentação, exercícios, remédios, sono etc.) e cruzar essas informações com os relatórios do leitor de glicose.
 
 ## Estrutura
@@ -8,6 +10,7 @@ Projeto pessoal para acompanhar a glicose e o dia a dia (alimentação, exercíc
 diario/                  Um arquivo por dia (AAAA-MM-DD.md) com o que foi feito
 relatorios/originais/    Relatórios do leitor exatamente como enviados (PDF, CSV, imagem)
 relatorios/resumos/      Resumo de cada relatório (médias, picos, tempo no alvo)
+guias/                   Guias práticos (ex.: aplicação do sensor)
 ANALISES.md              Observações e padrões encontrados ao longo do tempo
 ```
 

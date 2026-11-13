@@ -1,0 +1,193 @@
+<title>Aplicando o SmartGuide</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: uma coluna de passos, cada um com ilustração à esquerda e texto à direita; empilha no celular */
+:root{
+  --bg:#f3f7f7; --card:#ffffff; --fg:#14292b; --muted:#4f6668;
+  --teal:#1f9aa3; --teal-soft:#d6eef0; --lime:#7cb82f; --blue:#1d5fa8; --skin:#f1cfb4; --skin-dk:#d9a982;
+  --warn-bg:#fff3d6; --warn-fg:#6b4a00; --line:#d3e1e2;
+  --display:"Figtree",system-ui,sans-serif; --body:"Figtree",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0e1a1b; --card:#152527; --fg:#e4efef; --muted:#9db3b4; --teal:#4cc0c8; --teal-soft:#1d3a3d; --lime:#9bd156; --blue:#6ea6e6;
+  --skin:#c9a083; --skin-dk:#a87e60; --warn-bg:#3a2f12; --warn-fg:#f3d68a; --line:#26393b; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0e1a1b; --card:#152527; --fg:#e4efef; --muted:#9db3b4; --teal:#4cc0c8; --teal-soft:#1d3a3d; --lime:#9bd156; --blue:#6ea6e6;
+  --skin:#c9a083; --skin-dk:#a87e60; --warn-bg:#3a2f12; --warn-fg:#f3d68a; --line:#26393b; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.55}
+.wrap{max-width:860px;margin:0 auto;padding-block:32px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:20px}
+header{display:grid;gap:8px}
+.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--teal);font-weight:600}
+h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,40px);line-height:1.1;margin:0;text-wrap:balance}
+.lead{color:var(--muted);margin:0;max-width:62ch}
+.kit{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 0;padding:0;list-style:none}
+.kit li{background:var(--teal-soft);border-radius:999px;padding:4px 12px;font-size:14px}
+.note{background:var(--warn-bg);color:var(--warn-fg);border-radius:10px;padding:12px 16px;font-size:15px}
+ol.steps{list-style:none;margin:0;padding:0;display:grid;gap:14px;counter-reset:s}
+.step{counter-increment:s;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:grid;grid-template-columns:180px 1fr;gap:18px;align-items:center}
+.step svg{width:100%;max-width:180px;height:auto;justify-self:center}
+.step>div{min-width:0}
+.step h2{font-family:var(--display);font-size:19px;margin:0 0 4px;display:flex;gap:10px;align-items:baseline}
+.step h2::before{content:counter(s);font-family:var(--mono);font-size:14px;color:#fff;background:var(--teal);border-radius:6px;padding:1px 8px}
+.step p{margin:0 0 6px;max-width:60ch}
+.step ul{margin:4px 0 0;padding-left:20px}
+.code{font-family:var(--mono);background:var(--teal-soft);padding:1px 6px;border-radius:4px}
+h3{font-family:var(--display);margin:10px 0 0;font-size:18px}
+.after{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 20px}
+.after ul{margin:6px 0 0;padding-left:20px}
+footer{color:var(--muted);font-size:14px}
+footer a{color:var(--teal)}
+@media (max-width:560px){.step{grid-template-columns:1fr}.step svg{max-width:220px}}
+</style>
+
+<div class="wrap">
+<header>
+  <span class="eyebrow">Accu-Chek SmartGuide · Roche</span>
+  <h1>Como aplicar o sensor</h1>
+  <p class="lead">Passo a passo resumido do manual oficial. O sensor dura 14 dias. Na primeira vez, siga junto o tutorial do app Accu-Chek SmartGuide, que é a referência mais segura para o seu modelo.</p>
+  <ul class="kit">
+    <li>Aplicador do sensor (lacrado)</li><li>Lenço com álcool</li><li>Celular com o app instalado</li><li>Mãos lavadas</li>
+  </ul>
+</header>
+
+<ol class="steps">
+  <li class="step">
+    <svg viewBox="0 0 180 150" role="img" aria-label="Braço visto de trás com o local de aplicação marcado">
+      <path d="M60 10 Q50 70 62 140 L118 140 Q130 70 120 10 Z" fill="var(--skin)" stroke="var(--skin-dk)" stroke-width="2"/>
+      <ellipse cx="90" cy="58" rx="20" ry="24" fill="none" stroke="var(--teal)" stroke-width="3" stroke-dasharray="6 4"/>
+      <circle cx="90" cy="58" r="5" fill="var(--teal)"/>
+      <text x="90" y="104" text-anchor="middle" font-size="11" fill="var(--fg)" font-family="Figtree,sans-serif">parte de trás</text>
+      <text x="90" y="118" text-anchor="middle" font-size="11" fill="var(--fg)" font-family="Figtree,sans-serif">do braço</text>
+    </svg>
+    <div>
+      <h2>Escolha o local</h2>
+      <p>Parte de <strong>trás do braço</strong>, na metade de cima (direito ou esquerdo).</p>
+      <ul>
+        <li>Fique a pelo menos <strong>7,5 cm</strong> de onde você aplica insulina.</li>
+        <li>Evite cicatrizes, estrias, manchas, pintas e pele irritada.</li>
+        <li>Troque de braço a cada sensor novo.</li>
+      </ul>
+    </div>
+  </li>
+
+  <li class="step">
+    <svg viewBox="0 0 180 150" role="img" aria-label="Lenço com álcool limpando a pele">
+      <rect x="10" y="20" width="160" height="110" rx="14" fill="var(--skin)" stroke="var(--skin-dk)" stroke-width="2"/>
+      <g transform="rotate(-18 90 70)">
+        <rect x="55" y="48" width="70" height="44" rx="6" fill="var(--card)" stroke="var(--blue)" stroke-width="2"/>
+        <text x="90" y="75" text-anchor="middle" font-size="12" fill="var(--blue)" font-family="Figtree,sans-serif" font-weight="600">álcool</text>
+      </g>
+      <path d="M30 112 q15 -12 30 0 t30 0 t30 0 t30 0" fill="none" stroke="var(--teal)" stroke-width="2.5" stroke-linecap="round"/>
+    </svg>
+    <div>
+      <h2>Limpe e deixe secar</h2>
+      <p>Passe o lenço com álcool no local e <strong>espere secar completamente</strong> antes de aplicar. Pele úmida atrapalha a fixação do adesivo.</p>
+    </div>
+  </li>
+
+  <li class="step">
+    <svg viewBox="0 0 180 150" role="img" aria-label="Aplicador com o lacre sendo puxado">
+      <rect x="55" y="30" width="70" height="92" rx="22" fill="var(--card)" stroke="var(--fg)" stroke-width="2"/>
+      <rect x="55" y="96" width="70" height="26" rx="12" fill="var(--blue)"/>
+      <path d="M125 70 L160 60 L162 74 L127 84 Z" fill="var(--lime)" stroke="var(--fg)" stroke-width="1.5"/>
+      <path d="M150 44 l14 10 -14 10" fill="none" stroke="var(--teal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="90" y="140" text-anchor="middle" font-size="11" fill="var(--muted)" font-family="Figtree,sans-serif">A · lacre</text>
+    </svg>
+    <div>
+      <h2>Confira e puxe o lacre</h2>
+      <p>Antes de abrir, veja se o <strong>lacre (A)</strong> está intacto. Se já estiver aberto ou danificado, não use: o sensor pode não estar mais estéril. Com tudo certo, puxe o lacre.</p>
+    </div>
+  </li>
+
+  <li class="step">
+    <svg viewBox="0 0 180 150" role="img" aria-label="Tampa azul sendo desenroscada, com código de 6 dígitos na etiqueta">
+      <rect x="40" y="14" width="64" height="70" rx="20" fill="var(--card)" stroke="var(--fg)" stroke-width="2"/>
+      <path d="M118 46 a26 26 0 1 1 -8 -18" fill="none" stroke="var(--teal)" stroke-width="3" stroke-linecap="round"/>
+      <path d="M106 22 l6 8 -10 2" fill="none" stroke="var(--teal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="90" cy="118" rx="48" ry="22" fill="var(--blue)"/>
+      <rect x="58" y="108" width="64" height="20" rx="4" fill="var(--card)"/>
+      <text x="90" y="122" text-anchor="middle" font-size="12" fill="var(--fg)" font-family="IBM Plex Mono,monospace">• • • • • •</text>
+    </svg>
+    <div>
+      <h2>Desenrosque a tampa azul e guarde</h2>
+      <p>Gire a <strong>tampa azul (B)</strong> para tirá-la. <strong>Não jogue fora:</strong> na etiqueta embaixo dela está o <span class="code">código PIN de 6 dígitos</span>, que você vai precisar para conectar o sensor ao app. Tire uma foto da etiqueta por garantia.</p>
+      <p>Não toque na ponta do aplicador depois de abrir.</p>
+    </div>
+  </li>
+
+  <li class="step">
+    <svg viewBox="0 0 180 150" role="img" aria-label="Aplicador pressionado contra o braço até o clique">
+      <rect x="10" y="104" width="160" height="40" rx="10" fill="var(--skin)" stroke="var(--skin-dk)" stroke-width="2"/>
+      <rect x="58" y="30" width="64" height="74" rx="20" fill="var(--card)" stroke="var(--fg)" stroke-width="2"/>
+      <path d="M90 6 v18 M82 16 l8 8 8 -8" fill="none" stroke="var(--teal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="145" y="60" text-anchor="middle" font-size="15" font-weight="800" fill="var(--lime)" font-family="Figtree,sans-serif">clique!</text>
+      <path d="M128 70 l8 -4 M128 80 l10 0 M128 90 l8 4" stroke="var(--lime)" stroke-width="2.5" stroke-linecap="round"/>
+    </svg>
+    <div>
+      <h2>Posicione e pressione até o clique</h2>
+      <p>Para esticar a pele do braço, coloque a mão desse braço sobre o ombro oposto (ou por trás da cabeça). Encoste o aplicador <strong>reto</strong> sobre o local limpo e <strong>pressione firme até ouvir o clique</strong>.</p>
+      <p>Se for difícil alcançar sozinho, peça ajuda ou use um espelho.</p>
+    </div>
+  </li>
+
+  <li class="step">
+    <svg viewBox="0 0 180 150" role="img" aria-label="Aplicador sendo retirado e sensor redondo fixo no braço">
+      <rect x="10" y="104" width="160" height="40" rx="10" fill="var(--skin)" stroke="var(--skin-dk)" stroke-width="2"/>
+      <ellipse cx="90" cy="104" rx="26" ry="7" fill="var(--card)" stroke="var(--fg)" stroke-width="2"/>
+      <circle cx="90" cy="103" r="2.5" fill="var(--fg)"/>
+      <rect x="58" y="12" width="64" height="62" rx="20" fill="var(--card)" stroke="var(--fg)" stroke-width="2" opacity=".55"/>
+      <path d="M150 90 v-50 M142 50 l8 -10 8 10" fill="none" stroke="var(--teal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <div>
+      <h2>Retire o aplicador reto</h2>
+      <p>Puxe o aplicador <strong>na mesma direção</strong>, sem girar nem mexer para os lados. O sensor fica colado no braço.</p>
+      <p>Passe o dedo na borda do adesivo para garantir que ficou bem preso.</p>
+    </div>
+  </li>
+
+  <li class="step">
+    <svg viewBox="0 0 180 150" role="img" aria-label="Celular pedindo o código de 6 dígitos">
+      <rect x="55" y="8" width="70" height="134" rx="12" fill="var(--card)" stroke="var(--fg)" stroke-width="2"/>
+      <text x="90" y="44" text-anchor="middle" font-size="10" fill="var(--muted)" font-family="Figtree,sans-serif">Código PIN</text>
+      <g fill="var(--teal-soft)" stroke="var(--teal)" stroke-width="1.5">
+        <rect x="62" y="54" width="16" height="20" rx="3"/><rect x="82" y="54" width="16" height="20" rx="3"/><rect x="102" y="54" width="16" height="20" rx="3"/>
+        <rect x="62" y="78" width="16" height="20" rx="3"/><rect x="82" y="78" width="16" height="20" rx="3"/><rect x="102" y="78" width="16" height="20" rx="3"/>
+      </g>
+      <rect x="66" y="112" width="48" height="16" rx="8" fill="var(--teal)"/>
+      <text x="90" y="124" text-anchor="middle" font-size="9" fill="#fff" font-family="Figtree,sans-serif" font-weight="600">Seguinte</text>
+    </svg>
+    <div>
+      <h2>Conecte ao app em até 30 minutos</h2>
+      <p>No app Accu-Chek SmartGuide, escolha adicionar sensor, confirme o <strong>número de série</strong> e digite o <span class="code">PIN de 6 dígitos</span> da tampa azul.</p>
+      <p>Mantenha o Bluetooth ligado e o celular por perto.</p>
+    </div>
+  </li>
+
+  <li class="step">
+    <svg viewBox="0 0 180 150" role="img" aria-label="Relógio indicando aquecimento de cerca de uma hora">
+      <circle cx="90" cy="75" r="56" fill="var(--card)" stroke="var(--fg)" stroke-width="2"/>
+      <path d="M90 19 A56 56 0 1 1 89.9 19" fill="none" stroke="var(--lime)" stroke-width="8" stroke-dasharray="352 352" opacity=".9"/>
+      <path d="M90 75 V40 M90 75 L112 86" stroke="var(--fg)" stroke-width="3" stroke-linecap="round"/>
+      <text x="90" y="112" text-anchor="middle" font-size="13" font-weight="800" fill="var(--teal)" font-family="Figtree,sans-serif">~1 hora</text>
+    </svg>
+    <div>
+      <h2>Espere o aquecimento</h2>
+      <p>O sensor novo precisa de cerca de <strong>1 hora</strong> antes de mostrar leituras. O app mostra o andamento. Depois disso, ele mede por <strong>14 dias</strong>.</p>
+    </div>
+  </li>
+</ol>
+
+<section class="after">
+  <h3>Depois de aplicar</h3>
+  <ul>
+    <li><strong>Descarte o aplicador</strong> com segurança, longe do alcance de crianças: ele contém a agulha. Siga a regra de descarte da sua cidade ou farmácia.</li>
+    <li><strong>Anote a data da aplicação e o braço usado</strong>. Me manda um áudio que eu registro no diário.</li>
+    <li>Se o local ficar <strong>vermelho, inchado ou dolorido</strong>, ou a dor não passar, retire o sensor e fale com o médico.</li>
+  </ul>
+</section>
+
+<p class="note">Resumo para organização pessoal, feito a partir do manual da Roche. Em caso de dúvida, valem o folheto da caixa, o tutorial do app e a orientação do seu médico.</p>
+
+<footer>Fontes: <a href="https://www.accu-chek.pt/formacao/mcg/como-inserir-smartguide-sensor" target="_blank" rel="noopener">Como inserir o sensor (Accu-Chek)</a> · <a href="https://www.accu-chek.pt/formacao/mcg/sensor-app-emparelhamento" target="_blank" rel="noopener">Emparelhamento com o app</a> · <a href="https://tools.accu-chek.com/documents/dms/pt-br/smartguide_device_manual/smartguide_device_app_manual_br_2025-06/index/aplicaroseus/aplicaroseus.html" target="_blank" rel="noopener">Manual SmartGuide (Brasil)</a></footer>
+</div>
