@@ -4,6 +4,7 @@
 - Não usa medicamentos para glicose.
 - Sem meta definida pelo médico.
 - Alimentação: baixo carboidrato há algum tempo (possível cetose) — duração a confirmar.
+- **Não tem glicosímetro de ponta de dedo**, então o sensor atual (13–27/11) está sem calibração. Os valores absolutos são aproximados; tendências e comparações entre refeições continuam úteis.
 - Leitor: Accu-Chek SmartGuide (sensor de 14 dias no braço).
 - Alertas do app: baixa em **60** mg/dL (alterado por ele em 14/11; padrão era 70), alta em 180.
 

@@ -22,6 +22,6 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
-- **CALIBRAR O SENSOR no app com glicemia de ponta de dedo** (pedido desde 13/11).
+- **Calibração:** Rodrigo não tem glicosímetro. Opções: teste de glicemia em farmácia, digitando o valor no app na hora, ou comprar um glicosímetro. Enquanto isso, ler os dados como **tendência** (subidas, quedas, comparação entre refeições), não como valor exato.
 - **Fazer 1–2 glicemias de ponta de dedo** em momentos de leitura baixa no sensor para comparar.
 - O app em uso tem a aba "Relatórios" e o cartão "Tempo na faixa-alvo – últimas 24 h": testar como fonte de estatísticas.
