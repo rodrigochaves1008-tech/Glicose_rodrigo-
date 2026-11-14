@@ -20,6 +20,21 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - Valores abaixo de 54 (mínimo 40,5) só nas primeiras 5 h (13/11 16h–20h). Em 14/11: média 73, mínimo 59,5, 0% abaixo de 54.
 - Respostas: jantar com muito carboidrato → 162; almoço com pouco baião → ~90; café sem carboidrato → ~95; cafeína → 0; esforço com peso → +10.
 
+## Parecer geral (14/11, ~24 h de dados, sensor sem calibração)
+**Sinais favoráveis**
+- Nenhum valor acima de 180. Só ~3% do tempo acima de 140, todo depois do jantar com muito carboidrato.
+- Jantar com muito carboidrato: pico de 162 cerca de 70 min depois. Voltou a ~100 em 25 min após o pico e à base (~70) em ~3h40. A glicose baixou rápido.
+- Pouco carboidrato → subida discreta (~90). Proteína/gordura → quase nada.
+- Variabilidade em 14/11: CV ~10% (muito estável; referência < 36%).
+- Noite estável, sem oscilações grandes.
+- Esse conjunto é o oposto do padrão típico de pré-diabetes (picos altos, demora para baixar, jejum alto).
+
+**Ponto em aberto**
+- Base baixa (65–75, às vezes abaixo de 60), com o sensor sem calibração. Pode ser low-carb, imprecisão do sensor ou glicose realmente baixa. Só uma medição de referência (ponta de dedo ou exame de sangue) resolve.
+
+**Limites**
+- 1 dia de dados, sensor sem calibração. Não substitui exames (glicemia de jejum, HbA1c). GMI de 5,1% com 1 dia não tem valor diagnóstico.
+
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
 - **Calibração:** Rodrigo não tem glicosímetro. Opções: teste de glicemia em farmácia, digitando o valor no app na hora, ou comprar um glicosímetro. Enquanto isso, ler os dados como **tendência** (subidas, quedas, comparação entre refeições), não como valor exato.
