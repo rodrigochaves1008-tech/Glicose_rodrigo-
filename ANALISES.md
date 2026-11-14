@@ -15,7 +15,13 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - Ainda dentro das primeiras 24–48 h do sensor → não concluir antes de comparar com ponta de dedo e ver o dia 2–3.
 - Se o padrão persistir após 48 h e for confirmado no dedo → levar os relatórios ao médico (mencionar dieta low-carb).
 
+## Exportação completa 13/11 15:48 – 14/11 14:58
+- **Sensor sem calibração:** o app pede calibração com ponta de dedo desde a aplicação ("CalibrationRequired"), e todas as leituras estão marcadas como UNCALIBRATED. Isso pode explicar parte dos valores baixos. Calibrar é a prioridade.
+- Valores abaixo de 54 (mínimo 40,5) só nas primeiras 5 h (13/11 16h–20h). Em 14/11: média 73, mínimo 59,5, 0% abaixo de 54.
+- Respostas: jantar com muito carboidrato → 162; almoço com pouco baião → ~90; café sem carboidrato → ~95; cafeína → 0; esforço com peso → +10.
+
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
+- **CALIBRAR O SENSOR no app com glicemia de ponta de dedo** (pedido desde 13/11).
 - **Fazer 1–2 glicemias de ponta de dedo** em momentos de leitura baixa no sensor para comparar.
 - O app em uso tem a aba "Relatórios" e o cartão "Tempo na faixa-alvo – últimas 24 h": testar como fonte de estatísticas.
