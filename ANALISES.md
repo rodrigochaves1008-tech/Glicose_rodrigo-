@@ -35,8 +35,15 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 **Limites**
 - 1 dia de dados, sensor sem calibração. Não substitui exames (glicemia de jejum, HbA1c). GMI de 5,1% com 1 dia não tem valor diagnóstico.
 
+## Calibração 14/11 16:08 — muda a leitura
+- Ponta de dedo 99 × sensor 80: o sensor estava **subestimando ~10–20 mg/dL**. Ressalva: é 1 comparação só, e a glicose estava subindo.
+- Base provável: ~75–90 (normal). Os 40–55 de 13/11 foram muito provavelmente artefato do sensor novo e sem calibração.
+- O ponto em aberto do parecer (base baixa) fica **em grande parte esclarecido**. O resto do parecer se mantém. Picos podem ter sido um pouco maiores que o registrado (jantar ~170–180?), mas continuam dentro do aceitável e a volta continua rápida.
+- Daqui em diante, os dados são mais confiáveis. Confirmar com o próximo relatório se a base ficou em 80–90.
+
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
-- **Calibração:** Rodrigo não tem glicosímetro. Opções: teste de glicemia em farmácia, digitando o valor no app na hora, ou comprar um glicosímetro. Enquanto isso, ler os dados como **tendência** (subidas, quedas, comparação entre refeições), não como valor exato.
+- ~~Calibração~~ feita em 14/11 16:08. Verificar se o app pede uma 2ª etapa.
+- Próximo sensor (~27/11): ter glicosímetro em casa e calibrar logo no início.
 - **Fazer 1–2 glicemias de ponta de dedo** em momentos de leitura baixa no sensor para comparar.
 - O app em uso tem a aba "Relatórios" e o cartão "Tempo na faixa-alvo – últimas 24 h": testar como fonte de estatísticas.
