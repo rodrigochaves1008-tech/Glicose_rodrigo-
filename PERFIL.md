@@ -5,6 +5,7 @@
 - Sem meta definida pelo médico.
 - Alimentação: baixo carboidrato há algum tempo (possível cetose) — duração a confirmar.
 - Leitor: Accu-Chek SmartGuide (sensor de 14 dias no braço).
+- Alertas do app: baixa em **60** mg/dL (alterado por ele em 14/11; padrão era 70), alta em 180.
 
 ## Faixas de referência usadas no projeto (pessoa sem diabetes)
 | Situação                 | Referência        |
