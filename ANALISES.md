@@ -78,6 +78,18 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - Referência para pessoa sem diabetes: voltar à base em ~2–3 h após comer. **Todas dentro disso.** A descida inicial é rápida (30–60 mg/dL em 15–30 min), sinal de boa resposta de insulina.
 - O que alonga a curva é a **gordura** (2ª subida no baião, platô na maizena). O que cria o rebote é o **amido refinado**.
 
+## Estabilidade ao longo de 15/11 (calibrado)
+| Período | Média | Faixa | CV | 70–140 |
+|---------|-------|-------|----|--------|
+| Madrugada (00–05h, dormindo) | 77 | 62–90 | 10% | 75% |
+| Manhã (café + leitura) | 90 | 72–104 | 8% | 100% |
+| Tarde (sopa de feijão) | 95 | 82–127 | 13% | 100% |
+| Fim de tarde (sorvete) | 136 | 84–172 | 23% | 40% |
+| **Dia sem o sorvete** | **88** | 62–127 | **14%** | **93%** |
+| Dia todo | 92 | 62–172 | 22% | 88% |
+- Referência de pessoas saudáveis sem diabetes com CGM (Shah et al., 2019): média ~99, CV ~17%, ~96% do tempo em 70–140. Sem o sorvete, ele fica igual ou melhor. Com o sorvete, fica um pouco abaixo no tempo em 70–140.
+- Madrugada é o período com mais tempo abaixo de 70 (25%): ainda pode ser compressão do sensor, já que dorme mal e se mexe.
+
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
 - ~~Calibração~~ feita em 14/11 16:08. Verificar se o app pede uma 2ª etapa.
