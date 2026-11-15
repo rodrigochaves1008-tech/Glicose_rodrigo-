@@ -72,6 +72,7 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 |----------|-------------------------|---------------|---------------------|------------|
 | Baião grande + batata (13/11, bruto) | 162 (+71 min) | pico + 15 min | pico + 2h20 (3h30 após comer) | queda rápida até ~100, depois 2ª subida pela gordura |
 | Maizena (14/11) | 168 (+40 min) | pico + 70 min | pico + 1h55 (2h35 após comer) | passou da base: 68 |
+| Café: ovos, queijo, carne, brócolis (15/11) | 104 (+38 min) | nunca passou de 140 | pico + 15 min (93) | depois ficou ~2h em 90–100 (+10–15 da base 84) e voltou a ~85–90 por volta das 07:00–07:50. Efeito lento da proteína |
 | Sopa de feijão (15/11) | 127 (+88 min) | nunca passou de 140 | pico + 30 min (~2h após comer) | sem rebote |
 | Sorvete (15/11) | 172 (+66 min) | ainda 140 aos 30 min | — | exportação acabou cedo |
 - Referência para pessoa sem diabetes: voltar à base em ~2–3 h após comer. **Todas dentro disso.** A descida inicial é rápida (30–60 mg/dL em 15–30 min), sinal de boa resposta de insulina.
