@@ -42,6 +42,13 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - Daqui em diante, os dados são mais confiáveis.
 - **15/11: jejum de 91 com o sensor calibrado → confirma a base normal.**
 
+## 14/11 16h – 15/11 05h (calibrado)
+- 2ª calibração (16:43): dedo 92 × sensor 75,5, com a glicose estável → **viés confirmado (~17 abaixo)**. Os dados de 13 e 14/11 antes das 16:43 devem ser lidos com +15–20.
+- Média de 91 e jejum de ~90: **base normal confirmada**.
+- **Maizena (amido refinado) + gordura:** pico de 168 em 40 min, acima de 140 por ~1h45, depois **rebote para 68**. É a refeição que mais mexeu até agora. O baião subiu menos tempo.
+- Noite: 60–85 com oscilações. Pode ser compressão ou rebote. Nenhum valor abaixo de 54.
+- Padrão que começa a aparecer: **amido refinado em quantidade → pico alto + queda abaixo da base 2–3 h depois** (pode causar fome, sono e moleza). Observar se se repete.
+
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
 - ~~Calibração~~ feita em 14/11 16:08. Verificar se o app pede uma 2ª etapa.
