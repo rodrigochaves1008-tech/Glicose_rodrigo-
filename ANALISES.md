@@ -1,5 +1,7 @@
 # Análises e padrões
 
+> Rotina habitual: low-carb, sem jantar. Refeições marcadas **[TESTE]** no diário são experimentos fora da rotina.
+
 Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 
 ## 13–14/11 (primeiras ~13h de sensor)

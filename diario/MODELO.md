@@ -6,6 +6,8 @@
 | 09:00 | Exercício    | Caminhada 30 min                 |                 |
 | 12:00 | Medicamento  | ...                              |                 |
 
+Marque com **[TESTE]** as refeições feitas só para gerar dados (fora da rotina).
+
 Categorias: Refeição, Exercício, Medicamento, Sono, Sintoma, Outro
 
 ## Observações

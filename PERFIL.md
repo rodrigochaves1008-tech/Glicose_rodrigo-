@@ -3,7 +3,8 @@
 - Sem diagnóstico de diabetes; sem histórico familiar de diabetes.
 - Não usa medicamentos para glicose.
 - Sem meta definida pelo médico.
-- Alimentação: baixo carboidrato há algum tempo (possível cetose) — duração a confirmar.
+- Alimentação habitual: baixo carboidrato, refeições cedo, **normalmente não janta**.
+- As refeições com bastante carboidrato e os jantares de 13–15/11 (baião, maizena, sorvete, pizza) foram **testes de propósito**, para gerar dados. Não são a rotina.
 - Sensor atual (13–27/11) **calibrado em 14/11 às 16:08** (ponta de dedo 99 × sensor 80). Leituras antes disso estão sem calibração e provavelmente ~10–20 mg/dL abaixo do real. Não tem glicosímetro próprio.
 - Leitor: Accu-Chek SmartGuide (sensor de 14 dias no braço).
 - Alertas do app: baixa em **60** mg/dL (alterado por ele em 14/11; padrão era 70), alta em 180.
