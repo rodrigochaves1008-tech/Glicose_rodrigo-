@@ -15,7 +15,7 @@ Objetivo: aproveitar o sensor para entender como cada fator mexe na glicose, **m
 |---|-------|------------|----------------|
 | B1 | Dia normal 1 | Rotina habitual (low-carb, sem jantar), sem testes | Como é a glicose no dia a dia, principalmente tarde e noite sem jantar |
 | B2 | Dia normal 2 | Igual, em outro dia | Confirma se o B1 se repete |
-| B3 | Noite sem pressão no braço | Dormir de barriga para cima ou do lado esquerdo, com travesseiro nas costas | As baixas de madrugada são reais ou pressão no sensor? |
+| B3 | Noite sem jantar | Dormir depois de um dia de rotina, sem jantar (ele já dorme sem apoiar o braço do sensor) | As baixas de madrugada (60–70) vêm do rebote do jantar de teste ou acontecem também na rotina? |
 
 ## Testes de alimentos (de manhã, em jejum)
 | # | Teste | Porção sugerida | O que responde |
@@ -39,7 +39,7 @@ Objetivo: aproveitar o sensor para entender como cada fator mexe na glicose, **m
 ## Calendário sugerido
 | Data | Teste |
 |------|-------|
-| 16/11 (dom) | B1 + B3 à noite |
+| 16/11 (dom) | B1 dia normal + B3 noite sem jantar |
 | 17/11 | A1 arroz sozinho |
 | 18/11 | A2 arroz + feijão |
 | 19/11 | B2 + C2 academia em jejum |

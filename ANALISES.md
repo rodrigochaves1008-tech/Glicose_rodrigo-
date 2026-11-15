@@ -90,7 +90,7 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 | **Dia sem o sorvete** | **88** | 62–127 | **14%** | **93%** |
 | Dia todo | 92 | 62–172 | 22% | 88% |
 - Referência de pessoas saudáveis sem diabetes com CGM (Shah et al., 2019): média ~99, CV ~17%, ~96% do tempo em 70–140. Sem o sorvete, ele fica igual ou melhor. Com o sorvete, fica um pouco abaixo no tempo em 70–140.
-- Madrugada é o período com mais tempo abaixo de 70 (25%): ainda pode ser compressão do sensor, já que dorme mal e se mexe.
+- Madrugada é o período com mais tempo abaixo de 70 (25%). Ele dorme sem apoiar o braço, então **compressão é pouco provável**. Hipóteses: rebote dos jantares de teste (maizena em 14/11) e/ou queda noturna fisiológica (com low-carb). Teste B3 (noite sem jantar) vai separar as duas.
 
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
