@@ -6,4 +6,5 @@
 - Depois de cada relatório, atualizar `ANALISES.md` com padrões encontrados cruzando com o diário.
 - Perfil e faixas de referência em `PERFIL.md` (pessoa sem diabetes: usar 70–140 como faixa principal).
 - Não dar diagnóstico nem mudar tratamento; sugerir conversar com o médico quando algo chamar atenção.
+- Testes planejados em `TESTES.md`: ao receber exportação de dia de teste, preencher a tabela de resultados.
 - Commitar e dar push no branch de trabalho após cada atualização.
