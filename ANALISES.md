@@ -53,6 +53,20 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - **Dia mais estável até agora:** média 90, 100% em 70–140, CV 8%. Café sem carboidrato: +20 por ~40 min.
 - Quedas curtas para ~72–74, com recuperação rápida (07:58, 08:43, 09:33). Ele estava sentado lendo. Explicações prováveis: oscilação natural da glicose (ciclos de insulina) e/ou braço apoiado comprimindo o sensor. Sem relevância clínica.
 
+## 15/11 dia (calibrado)
+- Média 92, 88% em 70–140, 0% acima de 180.
+- **Hipótese confirmada:** sopa de feijão (carboidrato com fibra + gordura) → pico de 127, subida lenta, sem rebote. Maizena → 168 + rebote. **Para ele, o tipo de carboidrato importa mais que a quantidade de comida.**
+- Sorvete em quantidade grande: pico de 172, o maior calibrado até agora, ainda abaixo de 180.
+- Pizza ficou fora do período. Ver na próxima exportação o efeito tardio (2–4 h) e a noite.
+
+## Ranking provisório (pico)
+1. Sorvete grande: 172
+2. Maizena + queijo/manteiga: 168
+3. Baião grande + batata frita: 162 bruto (~175–180 corrigido?)
+4. Sopa de feijão: 127
+5. Baião pequeno: ~90 bruto (~105–110 corrigido?)
+6. Café com ovos/queijo/carne: 95–104
+
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
 - ~~Calibração~~ feita em 14/11 16:08. Verificar se o app pede uma 2ª etapa.
