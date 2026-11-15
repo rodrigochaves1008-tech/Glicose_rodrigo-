@@ -39,7 +39,8 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - Ponta de dedo 99 × sensor 80: o sensor estava **subestimando ~10–20 mg/dL**. Ressalva: é 1 comparação só, e a glicose estava subindo.
 - Base provável: ~75–90 (normal). Os 40–55 de 13/11 foram muito provavelmente artefato do sensor novo e sem calibração.
 - O ponto em aberto do parecer (base baixa) fica **em grande parte esclarecido**. O resto do parecer se mantém. Picos podem ter sido um pouco maiores que o registrado (jantar ~170–180?), mas continuam dentro do aceitável e a volta continua rápida.
-- Daqui em diante, os dados são mais confiáveis. Confirmar com o próximo relatório se a base ficou em 80–90.
+- Daqui em diante, os dados são mais confiáveis.
+- **15/11: jejum de 91 com o sensor calibrado → confirma a base normal.**
 
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
