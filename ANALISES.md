@@ -51,7 +51,7 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 
 ## 15/11 manhã (calibrado)
 - **Dia mais estável até agora:** média 90, 100% em 70–140, CV 8%. Café sem carboidrato: +20 por ~40 min.
-- Quedas curtas para ~72–74, com recuperação rápida (07:58, 08:43, 09:33). Ver no diário o que coincidiu com elas.
+- Quedas curtas para ~72–74, com recuperação rápida (07:58, 08:43, 09:33). Ele estava sentado lendo. Explicações prováveis: oscilação natural da glicose (ciclos de insulina) e/ou braço apoiado comprimindo o sensor. Sem relevância clínica.
 
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
