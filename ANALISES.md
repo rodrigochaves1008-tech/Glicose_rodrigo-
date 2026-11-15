@@ -67,6 +67,16 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 5. Baião pequeno: ~90 bruto (~105–110 corrigido?)
 6. Café com ovos/queijo/carne: 95–104
 
+## Tempo de recuperação após o pico
+| Refeição | Pico (tempo após comer) | Abaixo de 140 | Perto da base (+15) | Observação |
+|----------|-------------------------|---------------|---------------------|------------|
+| Baião grande + batata (13/11, bruto) | 162 (+71 min) | pico + 15 min | pico + 2h20 (3h30 após comer) | queda rápida até ~100, depois 2ª subida pela gordura |
+| Maizena (14/11) | 168 (+40 min) | pico + 70 min | pico + 1h55 (2h35 após comer) | passou da base: 68 |
+| Sopa de feijão (15/11) | 127 (+88 min) | nunca passou de 140 | pico + 30 min (~2h após comer) | sem rebote |
+| Sorvete (15/11) | 172 (+66 min) | ainda 140 aos 30 min | — | exportação acabou cedo |
+- Referência para pessoa sem diabetes: voltar à base em ~2–3 h após comer. **Todas dentro disso.** A descida inicial é rápida (30–60 mg/dL em 15–30 min), sinal de boa resposta de insulina.
+- O que alonga a curva é a **gordura** (2ª subida no baião, platô na maizena). O que cria o rebote é o **amido refinado**.
+
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
 - ~~Calibração~~ feita em 14/11 16:08. Verificar se o app pede uma 2ª etapa.
