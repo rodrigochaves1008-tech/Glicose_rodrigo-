@@ -49,6 +49,10 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - Noite: 60–85 com oscilações. Pode ser compressão ou rebote. Nenhum valor abaixo de 54.
 - Padrão que começa a aparecer: **amido refinado em quantidade → pico alto + queda abaixo da base 2–3 h depois** (pode causar fome, sono e moleza). Observar se se repete.
 
+## 15/11 manhã (calibrado)
+- **Dia mais estável até agora:** média 90, 100% em 70–140, CV 8%. Café sem carboidrato: +20 por ~40 min.
+- Quedas curtas para ~72–74, com recuperação rápida (07:58, 08:43, 09:33). Ver no diário o que coincidiu com elas.
+
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
 - ~~Calibração~~ feita em 14/11 16:08. Verificar se o app pede uma 2ª etapa.
