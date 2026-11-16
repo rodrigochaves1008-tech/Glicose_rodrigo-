@@ -99,6 +99,10 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - **Madrugada 16/11: 81–96, CV 6%, 0% abaixo de 70**, mesmo depois da noite de teste. As baixas de 14→15 não se repetiram → mais provável que tenham sido rebote da maizena do que padrão noturno. B3 (noite sem jantar) ainda vai confirmar.
 - **T1 tapioca com queijo (manhã):** pico de 144 em ~1h, sem rebote, platô 105–120 por 2h. Bem abaixo da maizena (168). Possível efeito do horário (manhã costuma ter melhor tolerância). Comparar no A1 (arroz, manhã).
 
+## Fatores de confusão a considerar
+- A partir de 16/11: garganta inflamada (possível início de resfriado). Doença/inflamação pode elevar a glicose e a fome.
+- 13–16/11: sono ruim em várias noites.
+
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
 - ~~Calibração~~ feita em 14/11 16:08. Verificar se o app pede uma 2ª etapa.
