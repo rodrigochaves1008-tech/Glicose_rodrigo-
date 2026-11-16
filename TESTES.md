@@ -41,24 +41,29 @@ Objetivo: aproveitar o sensor para entender como cada fator mexe na glicose, **m
 |---|-------|--------|----------------|
 | T1 | Tapioca com queijo (16/11 07:26) | 2 tapiocas | Amido de mandioca sem fibra. Comparar com a maizena (pico 168 + rebote) |
 
-## Calendário sugerido
-| Data | Teste |
-|------|-------|
-| 16/11 (dom) | ~~B1~~ → T1 tapioca (teste extra); B3 noite sem jantar mantida |
-| 17/11 | B1 dia normal (adiado) |
-| 18/11 | A1 arroz sozinho |
-| 19/11 | A2 arroz + feijão |
-| 20/11 | B2 dia normal + C2 academia em jejum |
-| 21/11 | A3 banana |
-| 22/11 | A4 pão sozinho |
-| 23/11 | A5 pão com manteiga e ovos |
-| 24/11 | A6 ordem dos alimentos |
-| 25/11 | C1 caminhada depois de comer |
-| 26/11 | C3 academia depois do pão |
-| — | C4 repetição e A7 refrigerante ficam para o próximo sensor (faltaram dias) |
+## Calendário (revisado em 16/11)
+Decisão do Rodrigo: **primeiro os testes com carboidrato, depois low-carb sem interrupção até o fim do sensor.**
+Para caber tudo, até **2 testes por dia**: um de manhã e outro à tarde, com **pelo menos 4 h de intervalo** e a glicose estável antes do segundo.
+
+### Fase 1: testes com carboidrato (17 a 21/11)
+| Data | Manhã | Tarde |
+|------|-------|-------|
+| 16/11 | T1 tapioca (feito) | — |
+| 17/11 | A1 arroz sozinho | A3 banana |
+| 18/11 | A2 arroz + feijão | A4 pão sozinho |
+| 19/11 | A5 pão com manteiga e ovos | C1 pão sozinho + caminhada de 15 min |
+| 20/11 | A6 ordem (ovos antes, pão depois) | C3 academia ~1 h depois do pão |
+| 21/11 | C4 repetir o teste com o pior pico | A7 refrigerante (opcional) |
+
+### Fase 2: low-carb sem interrupção (22 a 26/11)
+| Data | O que observar |
+|------|----------------|
+| 22–23/11 | Readaptação: fome, energia e glicose voltando ao padrão low-carb (as cetonas levam ~2–4 dias para voltar) |
+| 24/11 | C2 academia em jejum (compatível com low-carb) |
+| 22–26/11 | B1/B2/B3: dias e **noites sem jantar** de rotina. É a linha de base "limpa" |
 | 27/11 | Troca do sensor (braço esquerdo, com glicosímetro em casa para calibrar) |
 
-A ordem pode mudar. O importante é **um teste por dia** e anotar o horário.
+A ordem dentro de cada fase pode mudar. Anote sempre o horário de início.
 
 ## Resultados
 | # | Data | Antes | Pico | Tempo até o pico | Volta à base | Rebote | Observação |

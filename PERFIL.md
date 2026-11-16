@@ -23,3 +23,4 @@ Referências gerais, não metas clínicas. Valores fora delas → conversar com 
 Em dieta com pouco carboidrato/cetose é comum a glicose ficar mais baixa (60–80 mg/dL, às vezes menos) e as subidas após refeições serem menores. Considerar isso ao interpretar leituras abaixo de 70.
 
 - Dorme numa posição que não pressiona o braço do sensor (informado em 15/11). Compressão é pouco provável como causa das baixas noturnas.
+- Plano (16/11): testes com carboidrato de 17 a 21/11; depois low-carb sem interrupção de 22 a 26/11 (linha de base).
