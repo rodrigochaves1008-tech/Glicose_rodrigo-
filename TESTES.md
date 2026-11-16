@@ -47,14 +47,15 @@ Objetivo: aproveitar o sensor para entender como cada fator mexe na glicose, **m
 | 16/11 (dom) | ~~B1~~ → T1 tapioca (teste extra); B3 noite sem jantar mantida |
 | 17/11 | B1 dia normal (adiado) |
 | 18/11 | A1 arroz sozinho |
-| 19/11 | A2 arroz + feijão + C2 academia em jejum (antes) |
-| 20/11 | A3 banana |
-| 21/11 | A4 pão sozinho |
-| 22/11 | A5 pão com manteiga e ovos |
-| 23/11 | A6 ordem dos alimentos |
-| 24/11 | C1 caminhada depois de comer |
-| 25/11 | C3 academia depois do pão |
-| 26/11 | C4 repetição (ou A7, opcional) |
+| 19/11 | A2 arroz + feijão |
+| 20/11 | B2 dia normal + C2 academia em jejum |
+| 21/11 | A3 banana |
+| 22/11 | A4 pão sozinho |
+| 23/11 | A5 pão com manteiga e ovos |
+| 24/11 | A6 ordem dos alimentos |
+| 25/11 | C1 caminhada depois de comer |
+| 26/11 | C3 academia depois do pão |
+| — | C4 repetição e A7 refrigerante ficam para o próximo sensor (faltaram dias) |
 | 27/11 | Troca do sensor (braço esquerdo, com glicosímetro em casa para calibrar) |
 
 A ordem pode mudar. O importante é **um teste por dia** e anotar o horário.
