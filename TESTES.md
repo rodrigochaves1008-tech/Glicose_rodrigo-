@@ -63,4 +63,7 @@ A ordem pode mudar. O importante é **um teste por dia** e anotar o horário.
 ## Resultados
 | # | Data | Antes | Pico | Tempo até o pico | Volta à base | Rebote | Observação |
 |---|------|-------|------|------------------|--------------|--------|------------|
-| | | | | | | | |
+| T1 tapioca c/ queijo | 16/11 07:26 | 92 | **144** | ~1h | não voltou a 90 em 3h (platô 104–121) | não | Abaixo da maizena (168). Queijo prolonga o platô |
+| (pré-plano) maizena c/ queijo/manteiga | 14/11 17:38 | 82 | 168 | 40 min | ~2h35 | **sim, 68** | jantar |
+| (pré-plano) sopa de feijão | 15/11 11:25 | 88 | 127 | 1h30 | ~2h | não | |
+| (pré-plano) sorvete grande + pizza | 15/11 17:47 / 18:52 | 87 | 172 | 1h | ~6h oscilando (3 ondas) | sim, 70 | |

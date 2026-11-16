@@ -64,10 +64,12 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 ## Ranking provisório (pico)
 1. Sorvete grande: 172
 2. Maizena + queijo/manteiga: 168
+2b. Sorvete + pizza: 3 ondas, 172 / 144 / 146
 3. Baião grande + batata frita: 162 bruto (~175–180 corrigido?)
-4. Sopa de feijão: 127
-5. Baião pequeno: ~90 bruto (~105–110 corrigido?)
-6. Café com ovos/queijo/carne: 95–104
+4. Tapioca com queijo (manhã): 144
+5. Sopa de feijão: 127
+6. Baião pequeno: ~90 bruto (~105–110 corrigido?)
+7. Café com ovos/queijo/carne: 95–104
 
 ## Tempo de recuperação após o pico
 | Refeição | Pico (tempo após comer) | Abaixo de 140 | Perto da base (+15) | Observação |
@@ -91,6 +93,11 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 | Dia todo | 92 | 62–172 | 22% | 88% |
 - Referência de pessoas saudáveis sem diabetes com CGM (Shah et al., 2019): média ~99, CV ~17%, ~96% do tempo em 70–140. Sem o sorvete, ele fica igual ou melhor. Com o sorvete, fica um pouco abaixo no tempo em 70–140.
 - Madrugada é o período com mais tempo abaixo de 70 (25%). Ele dorme sem apoiar o braço, então **compressão é pouco provável**. Hipóteses: rebote dos jantares de teste (maizena em 14/11) e/ou queda noturna fisiológica (com low-carb). Teste B3 (noite sem jantar) vai separar as duas.
+
+## 15/11 noite – 16/11 manhã
+- **Sorvete + pizza:** 3 ondas (172 → 144 → 146), com quedas para 70–75 entre elas, ~6 h oscilando. A pizza dá subida dupla e tardia. É a refeição que **mais tempo** desestabilizou a glicose.
+- **Madrugada 16/11: 81–96, CV 6%, 0% abaixo de 70**, mesmo depois da noite de teste. As baixas de 14→15 não se repetiram → mais provável que tenham sido rebote da maizena do que padrão noturno. B3 (noite sem jantar) ainda vai confirmar.
+- **T1 tapioca com queijo (manhã):** pico de 144 em ~1h, sem rebote, platô 105–120 por 2h. Bem abaixo da maizena (168). Possível efeito do horário (manhã costuma ter melhor tolerância). Comparar no A1 (arroz, manhã).
 
 ## Pendências
 - Conseguir os números do CGM: relatório gratuito do mySugr não traz estatísticas de CGM → usar prints do gráfico diário ou relatório do app SmartGuide.
