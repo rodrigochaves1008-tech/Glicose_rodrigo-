@@ -36,13 +36,18 @@ Objetivo: aproveitar o sensor para entender como cada fator mexe na glicose, **m
 | C3 | Academia depois de comer carboidrato | Treinar ~1 h depois do A4 (pão) | O treino "gasta" o pico? |
 | C4 | Repetir o teste com o pior pico | Repetir o teste com o maior pico (provavelmente A1 ou A7) | O resultado se repete? (confiabilidade) |
 
+## Testes extras (fora do plano)
+| # | Teste | Porção | O que responde |
+|---|-------|--------|----------------|
+| T1 | Tapioca com queijo (16/11 07:26) | 2 tapiocas | Amido de mandioca sem fibra. Comparar com a maizena (pico 168 + rebote) |
+
 ## Calendário sugerido
 | Data | Teste |
 |------|-------|
-| 16/11 (dom) | B1 dia normal + B3 noite sem jantar |
-| 17/11 | A1 arroz sozinho |
-| 18/11 | A2 arroz + feijão |
-| 19/11 | B2 + C2 academia em jejum |
+| 16/11 (dom) | ~~B1~~ → T1 tapioca (teste extra); B3 noite sem jantar mantida |
+| 17/11 | B1 dia normal (adiado) |
+| 18/11 | A1 arroz sozinho |
+| 19/11 | A2 arroz + feijão + C2 academia em jejum (antes) |
 | 20/11 | A3 banana |
 | 21/11 | A4 pão sozinho |
 | 22/11 | A5 pão com manteiga e ovos |
