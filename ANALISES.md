@@ -128,6 +128,21 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - **Atualização 17/11:** a garganta já não está inflamada pela manhã. Uma inflamação leve que passou em ~1 dia ainda pode ter pesado durante a madrugada, mas a hipótese fica **mais fraca**. Outras candidatas continuam: digestão tardia do pastelão (talvez mais gorduroso que a pizza) e sono ruim. Só os testes isolados vão responder.
 - Conclusão provisória: a Coca-Cola **piorou o pico**; o pastelão **prolongou a curva**; a madrugada provavelmente teve mais a ver com a inflamação. Para separar de verdade: A7 (Coca sozinha) e T3 (pastelão sozinho), em dias diferentes, **depois que a garganta melhorar**.
 
+## Teoria do Rodrigo: transição para fora da cetose (17/11)
+Madrugadas (00:00–04:25), uma noite por dia de carboidrato acumulado:
+| Madrugada | Dias com carboidrato antes | Média | Faixa | ~04h |
+|-----------|----------------------------|-------|-------|------|
+| 14/11 (sem calibração, real ~+15–20) | 1 (baião) | 69 (≈85?) | 60–86 | ~73 |
+| 15/11 | 2 (maizena) | 75 | 63–87 | ~81 |
+| 16/11 | 3 (sorvete, pizza) | 92 | 81–108 | ~87 |
+| 17/11 | 4 (tapioca, pastelão, Coca) | 113 | 86–141 | ~122 |
+- **Subida contínua noite após noite** (75 → 92 → 113 só nas calibradas). Isso combina com a teoria: na cetose o glicogênio do fígado fica baixo e a produção noturna de glicose é pequena; com carboidrato todo dia, o glicogênio enche e o fígado passa a liberar mais à noite. A secreção de insulina também leva alguns dias para se adaptar ao carboidrato (por isso o exame de curva glicêmica pede ≥150 g/dia de carboidrato por 3 dias antes).
+- **Previsões para testar:**
+  1. Se continuar comendo carboidrato, as madrugadas devem **estabilizar** (~85–100) em vez de continuar subindo.
+  2. Picos de refeições parecidas devem **diminuir** com os dias. Repetir a tapioca no fim da fase 1 e comparar com 144.
+  3. Na fase low-carb (22–26/11), as madrugadas devem **voltar para ~70–85** em 2–4 dias.
+- Se as madrugadas continuarem subindo, ou o jejum ficar acima de 100 depois de vários dias, a teoria não explica tudo → médico.
+
 ## Fatores de confusão a considerar
 - 16/11 (tarde e noite): garganta inflamada, já melhor em 17/11 de manhã. Inflamação pode elevar a glicose e a fome.
 - 13–16/11: sono ruim em várias noites.

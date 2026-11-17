@@ -57,6 +57,8 @@ Para caber tudo, até **2 testes por dia**: um de manhã e outro à tarde, com *
 | 20/11 | A6 ordem (ovos antes, pão depois) | C3 academia ~1 h depois do pão |
 | 21/11 | A7 Coca-Cola sozinha (mesma quantidade de 16/11) | T3 pastelão sozinho, sem refrigerante, ~20:30 como em 16/11 |
 
+Extra: **repetir a tapioca com queijo (T1)** num dos últimos dias da fase 1, de manhã, para testar a adaptação ao carboidrato (o pico cai de 144?).
+
 ### Fase 2: low-carb sem interrupção (22 a 26/11)
 | Data | O que observar |
 |------|----------------|
