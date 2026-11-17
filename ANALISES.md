@@ -106,6 +106,11 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - Possíveis agravantes: horário noturno, garganta inflamada, vários dias seguidos com carboidrato, sono ruim.
 - Um pico isolado acima de 180 depois de refeição grande com refrigerante **não é diagnóstico**. Também acontece em pessoas sem diabetes. Mas vale observar: se picos acima de 180 se repetirem com refeições menores, ou a volta à base demorar mais de 3 h, levar ao médico.
 
+## 16/11 noite – 17/11 madrugada
+- Pastelão: 3ª onda de 168 às 22:38, base só às ~00:50 (~4h20 após comer). Sem rebote.
+- **Madrugada de 17/11 elevada: média 113, pico de 141 às 02:03 sem comer, ~120–126 ao acordar** (contra 81–96 na madrugada anterior).
+- Hipóteses: digestão tardia de refeição muito gordurosa + inflamação (garganta) + fenômeno do alvorecer. **Ponto de atenção:** se o jejum continuar acima de 100 em dias de rotina (fase low-carb) → falar com o médico.
+
 ## Fatores de confusão a considerar
 - A partir de 16/11: garganta inflamada (possível início de resfriado). Doença/inflamação pode elevar a glicose e a fome.
 - 13–16/11: sono ruim em várias noites.
