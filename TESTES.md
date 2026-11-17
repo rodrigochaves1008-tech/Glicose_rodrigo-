@@ -40,7 +40,7 @@ Objetivo: aproveitar o sensor para entender como cada fator mexe na glicose, **m
 | # | Teste | Porção | O que responde |
 |---|-------|--------|----------------|
 | T1 | Tapioca com queijo (16/11 07:26) | 2 tapiocas | Amido de mandioca sem fibra. Comparar com a maizena (pico 168 + rebote) |
-| T4 | Pão de forma integral (17/11 06:57) | a confirmar | Pão "integral" industrializado: comparar com o pão francês (A4) |
+| T4 | Pão de forma integral (17/11 06:57) | ~180–200 g, puro (~75–90 g de carboidrato) | Pão "integral" industrializado, porção grande. Comparar com o pão francês (A4, 50 g) |
 | T3 | Pastelão sozinho (sem refrigerante), mesmo horário | igual a 16/11 | Separa o efeito do pastelão do da Coca-Cola (ver A7) |
 | T2 | Pastelão com recheio misto + um pouco de Coca-Cola (16/11 20:32) | não medida | Massa de farinha refinada + gordura + açúcar líquido, à noite. Comparar com pizza + sorvete |
 
