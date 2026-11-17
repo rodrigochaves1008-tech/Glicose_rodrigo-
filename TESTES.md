@@ -69,6 +69,7 @@ A ordem dentro de cada fase pode mudar. Anote sempre o horário de início.
 ## Resultados
 | # | Data | Antes | Pico | Tempo até o pico | Volta à base | Rebote | Observação |
 |---|------|-------|------|------------------|--------------|--------|------------|
+| C2 academia em jejum (curta, carga máxima) | 17/11 05:13–05:31 | 125 | — (caiu) | — | **95 na saída (−30)** | a ver | Base elevada após a madrugada alta. O treino trouxe a glicose de volta ao normal |
 | T1 tapioca c/ queijo | 16/11 07:26 | 92 | **144** | ~1h | não voltou a 90 em 3h (platô 104–121) | não | Abaixo da maizena (168). Queijo prolonga o platô |
 | T2 pastelão misto + Coca-Cola | 16/11 20:32 | 91 | **194,5** | ~1h15 (1º pico de 150 em ~45 min) | base às ~00:50 (~4h20); 3ª onda de 168 às 22:38 | não | **1º valor acima de 180** (~10 min). Noite + garganta inflamada |
 | (pré-plano) maizena c/ queijo/manteiga | 14/11 17:38 | 82 | 168 | 40 min | ~2h35 | **sim, 68** | jantar |

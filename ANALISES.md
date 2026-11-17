@@ -111,6 +111,9 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - **Madrugada de 17/11 elevada: média 113, pico de 141 às 02:03 sem comer, ~120–126 ao acordar** (contra 81–96 na madrugada anterior).
 - Hipóteses: digestão tardia de refeição muito gordurosa + inflamação (garganta) + fenômeno do alvorecer. **Ponto de atenção:** se o jejum continuar acima de 100 em dias de rotina (fase low-carb) → falar com o médico.
 
+## 17/11 academia em jejum (C2)
+- Treino curto e intenso: **125 → 95** (−30 em ~18 min), em vez da subida esperada. Com a glicose elevada, o músculo em contração capta glicose (independente de insulina) e isso supera a liberação pelo fígado. Confirmar o pós-treino na exportação.
+
 ## Fatores de confusão a considerar
 - A partir de 16/11: garganta inflamada (possível início de resfriado). Doença/inflamação pode elevar a glicose e a fome.
 - 13–16/11: sono ruim em várias noites.
