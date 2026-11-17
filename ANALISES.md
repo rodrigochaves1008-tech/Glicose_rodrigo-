@@ -102,7 +102,7 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 
 ## 16/11 (calibrado)
 - **Tarde de rotina (10:28–20:30): média 94, CV 7%, 100% em 70–140.** Almoço de frango, iogurte e queijo quase não mexem (iogurte: +15 em 40 min).
-- **T2 pastelão + Coca-Cola: pico de 194,5 às 21:48, o 1º valor acima de 180** (~10 min). Curva em 2 tempos: 150 aos ~45 min (açúcar líquido) e 194 aos ~1h15 (massa). Ainda 158 depois de 2h.
+- **T2 pastelão + Coca-Cola: pico de 194,5 às 21:48, o 1º valor acima de 180** (~10 min). Curva em 2 tempos: 150 ~30 min após a Coca-Cola (bebida às ~20:47) e 194 ~1h15 após o início do pastelão (massa + resto do açúcar). Ainda 158 depois de 2h.
 - Possíveis agravantes: horário noturno, garganta inflamada, vários dias seguidos com carboidrato, sono ruim.
 - Um pico isolado acima de 180 depois de refeição grande com refrigerante **não é diagnóstico**. Também acontece em pessoas sem diabetes. Mas vale observar: se picos acima de 180 se repetirem com refeições menores, ou a volta à base demorar mais de 3 h, levar ao médico.
 
