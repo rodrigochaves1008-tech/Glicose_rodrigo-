@@ -77,6 +77,10 @@ A ordem dentro de cada fase pode mudar. Anote sempre o horário de início.
 | # | Data | Antes | Pico | Tempo até o pico | Volta à base | Rebote | Observação |
 |---|------|-------|------|------------------|--------------|--------|------------|
 | C2 academia em jejum (curta, carga máxima) | 17/11 05:13–05:31 | 125 | — (caiu) | — | **95 na saída (−30)** | a ver | Base elevada após a madrugada alta. O treino trouxe a glicose de volta ao normal |
+| T4 pão de forma integral ~190 g puro | 17/11 06:57 | 92 | **164** | ~56 min | ~2h45 (platô 115–128) | não | Fome às 08:25 com a glicose descendo (~115) |
+| Mungunzá (prato fundo) | 17/11 11:59 | 88 | 145 | ~40 min | ~1h20 | **sim, 76** | |
+| KitKat (1 barra) | 17/11 15:41 | 95 | 138 | ~42 min | ~1h10 | leve, 84 | |
+| T5 chocotone 400 g | 17/11 17:22 | 94 | **146** (até 18:53) | ~46 min | ainda 124–130 às 18:53 | a ver | Pico menor que o do pão, com ~3x a carga |
 | T1 tapioca c/ queijo | 16/11 07:26 | 92 | **144** | ~1h | não voltou a 90 em 3h (platô 104–121) | não | Abaixo da maizena (168). Queijo prolonga o platô |
 | T2 pastelão misto + Coca-Cola | 16/11 20:32 | 91 | **194,5** | ~1h15 (1º pico de 150 em ~45 min) | base às ~00:50 (~4h20); 3ª onda de 168 às 22:38 | não | **1º valor acima de 180** (~10 min). Noite + garganta inflamada |
 | (pré-plano) maizena c/ queijo/manteiga | 14/11 17:38 | 82 | 168 | 40 min | ~2h35 | **sim, 68** | jantar |

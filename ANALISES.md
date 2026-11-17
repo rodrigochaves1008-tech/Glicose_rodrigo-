@@ -143,6 +143,20 @@ Madrugadas (00:00–04:25), uma noite por dia de carboidrato acumulado:
   3. Na fase low-carb (22–26/11), as madrugadas devem **voltar para ~70–85** em 2–4 dias.
 - Se as madrugadas continuarem subindo, ou o jejum ficar acima de 100 depois de vários dias, a teoria não explica tudo → médico.
 
+## 17/11: sinais de adaptação ao carboidrato?
+| Dia | Refeição | Carboidrato aprox. | Pico |
+|-----|----------|--------------------|------|
+| 14/11 | Maizena (noite) | ? | 168 |
+| 15/11 | Sorvete grande | ~60–80 g | 172 |
+| 16/11 | Tapioca (manhã) | ~50–60 g | 144 |
+| 16/11 | Pastelão + Coca (noite) | ~90–120 g | 194,5 |
+| 17/11 | **Pão integral puro (manhã)** | **~80 g** | **164** |
+| 17/11 | Mungunzá | ~50–70 g | 145 |
+| 17/11 | KitKat | ~25 g | 138 |
+| 17/11 | **Chocotone 400 g** | **~200–240 g** | **146 (até 18:53)** |
+- O chocotone, com ~3x a carga do pão, teve pico **menor** que o do pão. Isso combina com a teoria do Rodrigo (insulina "acordando" depois de dias de carboidrato) e/ou com o efeito do treino da manhã (sensibilidade à insulina aumenta por 24–48 h depois de treino de força). Ainda não dá para separar os dois.
+- Rebotes leves continuam aparecendo depois de refeições com amido (mungunzá → 76).
+
 ## Fatores de confusão a considerar
 - 16/11 (tarde e noite): garganta inflamada, já melhor em 17/11 de manhã. Inflamação pode elevar a glicose e a fome.
 - 13–16/11: sono ruim em várias noites.
