@@ -40,6 +40,7 @@ Objetivo: aproveitar o sensor para entender como cada fator mexe na glicose, **m
 | # | Teste | Porção | O que responde |
 |---|-------|--------|----------------|
 | T1 | Tapioca com queijo (16/11 07:26) | 2 tapiocas | Amido de mandioca sem fibra. Comparar com a maizena (pico 168 + rebote) |
+| T3 | Pastelão sozinho (sem refrigerante), mesmo horário | igual a 16/11 | Separa o efeito do pastelão do da Coca-Cola (ver A7) |
 | T2 | Pastelão com recheio misto + um pouco de Coca-Cola (16/11 20:32) | não medida | Massa de farinha refinada + gordura + açúcar líquido, à noite. Comparar com pizza + sorvete |
 
 ## Calendário (revisado em 16/11)
@@ -54,7 +55,7 @@ Para caber tudo, até **2 testes por dia**: um de manhã e outro à tarde, com *
 | 18/11 | A2 arroz + feijão | A4 pão sozinho |
 | 19/11 | A5 pão com manteiga e ovos | C1 pão sozinho + caminhada de 15 min |
 | 20/11 | A6 ordem (ovos antes, pão depois) | C3 academia ~1 h depois do pão |
-| 21/11 | C4 repetir o teste com o pior pico | A7 refrigerante (opcional) |
+| 21/11 | A7 Coca-Cola sozinha (mesma quantidade de 16/11) | T3 pastelão sozinho, sem refrigerante, ~20:30 como em 16/11 |
 
 ### Fase 2: low-carb sem interrupção (22 a 26/11)
 | Data | O que observar |
@@ -63,6 +64,8 @@ Para caber tudo, até **2 testes por dia**: um de manhã e outro à tarde, com *
 | 24/11 | C2 academia em jejum (compatível com low-carb) |
 | 22–26/11 | B1/B2/B3: dias e **noites sem jantar** de rotina. É a linha de base "limpa" |
 | 27/11 | Troca do sensor (braço esquerdo, com glicosímetro em casa para calibrar) |
+
+**Só fazer A7 e T3 depois que a garganta melhorar** (inflamação sobe a glicose e confunde a comparação). C4 (repetição) passa para o próximo sensor.
 
 A ordem dentro de cada fase pode mudar. Anote sempre o horário de início.
 
