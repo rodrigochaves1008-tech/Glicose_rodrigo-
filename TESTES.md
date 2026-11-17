@@ -65,7 +65,7 @@ Para caber tudo, até **2 testes por dia**: um de manhã e outro à tarde, com *
 | 22–26/11 | B1/B2/B3: dias e **noites sem jantar** de rotina. É a linha de base "limpa" |
 | 27/11 | Troca do sensor (braço esquerdo, com glicosímetro em casa para calibrar) |
 
-**Só fazer A7 e T3 depois que a garganta melhorar** (inflamação sobe a glicose e confunde a comparação). C4 (repetição) passa para o próximo sensor.
+Garganta melhorou em 17/11: A7 e T3 liberados. C4 (repetição) passa para o próximo sensor.
 
 A ordem dentro de cada fase pode mudar. Anote sempre o horário de início.
 

@@ -125,10 +125,11 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - **Coca-Cola:** açúcar líquido é absorvido em 1–2 h. Explica a subida rápida (100 → 150 em ~30 min) e parte da altura do pico. **Não explica** a 3ª onda (22:38) nem a madrugada.
 - **Pastelão:** massa + recheio gorduroso. Explica o 2º pico, a 3ª onda e o platô até ~00:35 (mesmo padrão em ondas da pizza).
 - **Madrugada alta:** a refeição de 15/11 teve carga parecida (só 11% menor) e a madrugada seguinte foi perfeita. A diferença entre as duas noites é a **garganta inflamada** → candidata principal para a madrugada e o jejum de ~125, mais do que a comida.
+- **Atualização 17/11:** a garganta já não está inflamada pela manhã. Uma inflamação leve que passou em ~1 dia ainda pode ter pesado durante a madrugada, mas a hipótese fica **mais fraca**. Outras candidatas continuam: digestão tardia do pastelão (talvez mais gorduroso que a pizza) e sono ruim. Só os testes isolados vão responder.
 - Conclusão provisória: a Coca-Cola **piorou o pico**; o pastelão **prolongou a curva**; a madrugada provavelmente teve mais a ver com a inflamação. Para separar de verdade: A7 (Coca sozinha) e T3 (pastelão sozinho), em dias diferentes, **depois que a garganta melhorar**.
 
 ## Fatores de confusão a considerar
-- A partir de 16/11: garganta inflamada (possível início de resfriado). Doença/inflamação pode elevar a glicose e a fome.
+- 16/11 (tarde e noite): garganta inflamada, já melhor em 17/11 de manhã. Inflamação pode elevar a glicose e a fome.
 - 13–16/11: sono ruim em várias noites.
 
 ## Pendências
