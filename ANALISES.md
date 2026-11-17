@@ -62,6 +62,7 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - Pizza ficou fora do período. Ver na próxima exportação o efeito tardio (2–4 h) e a noite.
 
 ## Ranking provisório (pico)
+0. **Pastelão misto + Coca-Cola (noite): 194,5**
 1. Sorvete grande: 172
 2. Maizena + queijo/manteiga: 168
 2b. Sorvete + pizza: 3 ondas, 172 / 144 / 146
@@ -98,6 +99,12 @@ Observações acumuladas ao cruzar os relatórios do leitor com o diário.
 - **Sorvete + pizza:** 3 ondas (172 → 144 → 146), com quedas para 70–75 entre elas, ~6 h oscilando. A pizza dá subida dupla e tardia. É a refeição que **mais tempo** desestabilizou a glicose.
 - **Madrugada 16/11: 81–96, CV 6%, 0% abaixo de 70**, mesmo depois da noite de teste. As baixas de 14→15 não se repetiram → mais provável que tenham sido rebote da maizena do que padrão noturno. B3 (noite sem jantar) ainda vai confirmar.
 - **T1 tapioca com queijo (manhã):** pico de 144 em ~1h, sem rebote, platô 105–120 por 2h. Bem abaixo da maizena (168). Possível efeito do horário (manhã costuma ter melhor tolerância). Comparar no A1 (arroz, manhã).
+
+## 16/11 (calibrado)
+- **Tarde de rotina (10:28–20:30): média 94, CV 7%, 100% em 70–140.** Almoço de frango, iogurte e queijo quase não mexem (iogurte: +15 em 40 min).
+- **T2 pastelão + Coca-Cola: pico de 194,5 às 21:48, o 1º valor acima de 180** (~10 min). Curva em 2 tempos: 150 aos ~45 min (açúcar líquido) e 194 aos ~1h15 (massa). Ainda 158 depois de 2h.
+- Possíveis agravantes: horário noturno, garganta inflamada, vários dias seguidos com carboidrato, sono ruim.
+- Um pico isolado acima de 180 depois de refeição grande com refrigerante **não é diagnóstico**. Também acontece em pessoas sem diabetes. Mas vale observar: se picos acima de 180 se repetirem com refeições menores, ou a volta à base demorar mais de 3 h, levar ao médico.
 
 ## Fatores de confusão a considerar
 - A partir de 16/11: garganta inflamada (possível início de resfriado). Doença/inflamação pode elevar a glicose e a fome.
