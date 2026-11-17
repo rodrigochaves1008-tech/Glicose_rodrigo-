@@ -40,7 +40,7 @@ Objetivo: aproveitar o sensor para entender como cada fator mexe na glicose, **m
 | # | Teste | Porção | O que responde |
 |---|-------|--------|----------------|
 | T1 | Tapioca com queijo (16/11 07:26) | 2 tapiocas | Amido de mandioca sem fibra. Comparar com a maizena (pico 168 + rebote) |
-| T2 | Pastelão (16/11 20:32) | a confirmar | Massa de farinha refinada + gordura, à noite. Comparar com a pizza |
+| T2 | Pastelão com recheio misto + um pouco de Coca-Cola (16/11 20:32) | não medida | Massa de farinha refinada + gordura + açúcar líquido, à noite. Comparar com pizza + sorvete |
 
 ## Calendário (revisado em 16/11)
 Decisão do Rodrigo: **primeiro os testes com carboidrato, depois low-carb sem interrupção até o fim do sensor.**
