@@ -157,6 +157,18 @@ Madrugadas (00:00–04:25), uma noite por dia de carboidrato acumulado:
 - O chocotone, com ~3x a carga do pão, teve pico **menor** que o do pão. Isso combina com a teoria do Rodrigo (insulina "acordando" depois de dias de carboidrato) e/ou com o efeito do treino da manhã (sensibilidade à insulina aumenta por 24–48 h depois de treino de força). Ainda não dá para separar os dois.
 - Rebotes leves continuam aparecendo depois de refeições com amido (mungunzá → 76).
 
+## 18/11: teoria da saída da cetose, previsão 1 confirmada
+| Madrugada (00:00–04:25) | Média |
+|-------------------------|-------|
+| 15/11 | 75 |
+| 16/11 | 92 |
+| 17/11 | 113 |
+| **18/11** | **90** |
+- A madrugada **parou de subir e voltou para ~90**, mesmo depois de 400 g de chocotone. Isso combina com a previsão 1 (estabilizar depois de alguns dias de carboidrato). A de 17/11 (113) parece ter sido a "transição" (+ garganta).
+- Chocotone 400 g: pico baixo (146) mas **~8 h de oscilação** (quedas para 70 às 22:48 e 01:23 e subidas para 130–134 sem comer). Muito carboidrato + gordura → absorção prolongada e em ondas.
+- **Treino de superiores × inferiores:** superiores **subiu** a glicose (+17, adrenalina); inferiores **baixou** (−30, músculos grandes consumindo glicose).
+- Manhã em jejum de 18/11: **CV 3%** (91–104), a mais estável do projeto.
+
 ## Fatores de confusão a considerar
 - 16/11 (tarde e noite): garganta inflamada, já melhor em 17/11 de manhã. Inflamação pode elevar a glicose e a fome.
 - 13–16/11: sono ruim em várias noites.

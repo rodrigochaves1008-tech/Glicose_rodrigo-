@@ -81,6 +81,10 @@ A ordem dentro de cada fase pode mudar. Anote sempre o horário de início.
 | Mungunzá (prato fundo) | 17/11 11:59 | 88 | 145 | ~40 min | ~1h20 | **sim, 76** | |
 | KitKat (1 barra) | 17/11 15:41 | 95 | 138 | ~42 min | ~1h10 | leve, 84 | |
 | T5 chocotone 400 g | 17/11 17:22 | 94 | **146** (até 18:53) | ~46 min | ainda 124–130 às 18:53 | a ver | Pico menor que o do pão, com ~3x a carga |
+| T5 chocotone 400 g (final) | 17/11 17:22 | 94 | 146 | ~46 min | **~8 h oscilando** (70 ↔ 134) | sim, 70 (22:48 e 01:23) | Pico baixo, curva muito longa |
+| Treino superiores em jejum | 18/11 ~05:08 | 100 | **117** | ~20 min | ~30 min | não | Subiu (adrenalina), ao contrário de inferiores |
+| Panetone (vontade, não teste) + fígado | 18/11 12:04/12:11 | 94 | 150 | ~50 min | ~3h10 (ondas 110–121) | não | Quantidade não informada |
+| A7 parcial: Coca-Cola | 18/11 15:49 | 110 | 124 | ~25 min | ~45 min | não | Quantidade não informada; subida pequena |
 | T1 tapioca c/ queijo | 16/11 07:26 | 92 | **144** | ~1h | não voltou a 90 em 3h (platô 104–121) | não | Abaixo da maizena (168). Queijo prolonga o platô |
 | T2 pastelão misto + Coca-Cola | 16/11 20:32 | 91 | **194,5** | ~1h15 (1º pico de 150 em ~45 min) | base às ~00:50 (~4h20); 3ª onda de 168 às 22:38 | não | **1º valor acima de 180** (~10 min). Noite + garganta inflamada |
 | (pré-plano) maizena c/ queijo/manteiga | 14/11 17:38 | 82 | 168 | 40 min | ~2h35 | **sim, 68** | jantar |
