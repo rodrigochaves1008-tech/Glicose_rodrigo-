@@ -12,6 +12,8 @@ relatorios/originais/    Relatórios do leitor exatamente como enviados (PDF, CS
 relatorios/resumos/      Resumo de cada relatório (médias, picos, tempo no alvo)
 guias/                   Guias práticos (ex.: aplicação do sensor)
 TESTES.md                Plano de testes do sensor atual e resultados
+ESTADO.md                Resumo do estado atual (ler primeiro ao retomar)
+scripts/                 Script para processar o Exportar.zip
 ANALISES.md              Observações e padrões encontrados ao longo do tempo
 ```
 

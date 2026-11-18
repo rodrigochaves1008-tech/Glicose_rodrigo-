@@ -24,3 +24,4 @@ Em dieta com pouco carboidrato/cetose é comum a glicose ficar mais baixa (60–
 
 - Dorme numa posição que não pressiona o braço do sensor (informado em 15/11). Compressão é pouco provável como causa das baixas noturnas.
 - Plano (16/11): testes com carboidrato de 17 a 21/11; depois low-carb sem interrupção de 22 a 26/11 (linha de base).
+- **Os horários informados por ele são exatos** (avisa na hora em que come/faz). Não atribuir subidas a erro de horário.
