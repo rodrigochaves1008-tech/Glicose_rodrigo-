@@ -19,6 +19,7 @@ Leia este arquivo + `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `ANALISES.md` para r
 - **Fase 2 (22–26/11): low-carb sem interrupção, sem jantar.** Linha de base: verificar se as madrugadas voltam a ~70–85, se o jejum fica abaixo de 100 e se a fome e a vontade de doce somem.
 
 ## Pendências e perguntas abertas
+- **19/11: ele se sente doente → testes suspensos** até melhorar. Dados desses dias são fator de confusão.
 - Quantidade do panetone (18/11 12:11) e da Coca-Cola (18/11 15:49): não informadas.
 - Curva do KitKat de 18/11 16:58: aparece na próxima exportação. Comparar com o KitKat de 17/11 (95 → 138).
 - Teoria do Rodrigo (saída da cetose): madrugadas 75 → 92 → 113 → **90** (previsão 1 confirmada). Faltam as previsões 2 (picos menores com os dias) e 3 (madrugada mais baixa na fase low-carb).
