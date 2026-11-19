@@ -61,12 +61,14 @@ Para caber tudo, até **2 testes por dia**: um de manhã e outro à tarde, com *
 
 Extra: **repetir a tapioca com queijo (T1)** num dos últimos dias da fase 1, de manhã, para testar a adaptação ao carboidrato (o pico cai de 144?).
 
-### Fase 2: low-carb sem interrupção (22 a 26/11)
+### Fase 2: low-carb sem interrupção (**antecipada: começa em 19/11**, até 26/11)
+Decisão do Rodrigo em 19/11 (corpo pesado). Testes de carboidrato que faltaram (A1, A2, A3, A4, A5, A6, C1, C3, T3, A7 completo, repetir T1) passam para o próximo sensor.
+
 | Data | O que observar |
 |------|----------------|
-| 22–23/11 | Readaptação: fome, energia e glicose voltando ao padrão low-carb (as cetonas levam ~2–4 dias para voltar) |
+| 19–21/11 | Readaptação: fome, energia e glicose voltando ao padrão low-carb (as cetonas levam ~2–4 dias para voltar) |
 | 24/11 | C2 academia em jejum (compatível com low-carb) |
-| 22–26/11 | B1/B2/B3: dias e **noites sem jantar** de rotina. É a linha de base "limpa" |
+| 19–26/11 | B1/B2/B3: dias e **noites sem jantar** de rotina. É a linha de base "limpa" |
 | 27/11 | Troca do sensor (braço esquerdo, com glicosímetro em casa para calibrar) |
 
 Garganta melhorou em 17/11: A7 e T3 liberados. C4 (repetição) passa para o próximo sensor.

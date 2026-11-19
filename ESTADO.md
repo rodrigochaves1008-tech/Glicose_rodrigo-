@@ -1,4 +1,4 @@
-# Estado atual do projeto (atualizado em 18/11/2026 ~17:30)
+# Estado atual do projeto (atualizado em 19/11/2026)
 
 Leia este arquivo + `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `ANALISES.md` para retomar o trabalho.
 
@@ -15,11 +15,11 @@ Leia este arquivo + `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `ANALISES.md` para r
 - Última exportação processada: **18/11 17:19** (`relatorios/originais/2026-11-18_export_cgm.csv`).
 
 ## Plano
-- **Fase 1 (até 21/11): testes com carboidrato.** Ainda faltam: A1 arroz, A2 arroz + feijão, A3 banana, A4 pão francês, A5 pão + ovos, A6 ordem dos alimentos, C1 caminhada após comer, C3 academia após o pão, T3 pastelão sozinho, A7 Coca sozinha (com quantidade), repetir a tapioca (T1).
-- **Fase 2 (22–26/11): low-carb sem interrupção, sem jantar.** Linha de base: verificar se as madrugadas voltam a ~70–85, se o jejum fica abaixo de 100 e se a fome e a vontade de doce somem.
+- **Fase 1 (13–18/11): testes com carboidrato, ENCERRADA.** Ficaram para o próximo sensor: A1 arroz, A2 arroz + feijão, A3 banana, A4 pão francês, A5 pão + ovos, A6 ordem dos alimentos, C1 caminhada após comer, C3 academia após o pão, T3 pastelão sozinho, A7 Coca sozinha (com quantidade), repetir a tapioca (T1).
+- **Fase 2 (19–26/11, antecipada): low-carb sem interrupção, sem jantar.** 19/11 = dia 1. Linha de base: verificar se as madrugadas voltam a ~70–85, se o jejum fica abaixo de 100 e se a fome e a vontade de doce somem.
 
 ## Pendências e perguntas abertas
-- 19/11: **corpo pesado** (não está doente). Pausou os testes por enquanto. Sugerido: antecipar a fase low-carb, se ele quiser.
+- 19/11: corpo pesado (não está doente) → **começou a fase low-carb em 19/11**. Acompanhar: corpo pesado, fome e vontade de doce devem sumir em 2–4 dias; madrugadas devem cair para ~70–85.
 - Quantidade do panetone (18/11 12:11) e da Coca-Cola (18/11 15:49): não informadas.
 - Curva do KitKat de 18/11 16:58: aparece na próxima exportação. Comparar com o KitKat de 17/11 (95 → 138).
 - Teoria do Rodrigo (saída da cetose): madrugadas 75 → 92 → 113 → **90** (previsão 1 confirmada). Faltam as previsões 2 (picos menores com os dias) e 3 (madrugada mais baixa na fase low-carb).
