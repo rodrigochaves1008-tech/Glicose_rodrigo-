@@ -170,7 +170,7 @@ Madrugadas (00:00–04:25), uma noite por dia de carboidrato acumulado:
 - Manhã em jejum de 18/11: **CV 3%** (91–104), a mais estável do projeto.
 
 ## Fatores de confusão a considerar
-- 19/11: sensação de corpo pesado (não é doença), depois de ~6 dias com muito carboidrato.
+- 19/11: corpo pesado + **perda de voz** (sem dor de garganta). Junto com a garganta de 16/11, sugere **virose/laringite leve** em curso desde 16/11. Isso reforça a hipótese de inflamação na madrugada alta de 17/11 e pode afetar a glicose dos primeiros dias da fase low-carb.
 - 16/11 (tarde e noite): garganta inflamada, já melhor em 17/11 de manhã. Inflamação pode elevar a glicose e a fome.
 - 13–16/11: sono ruim em várias noites.
 

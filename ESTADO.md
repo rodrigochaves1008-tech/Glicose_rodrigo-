@@ -19,7 +19,7 @@ Leia este arquivo + `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `ANALISES.md` para r
 - **Fase 2 (19–26/11, antecipada): low-carb sem interrupção, sem jantar.** 19/11 = dia 1. Linha de base: verificar se as madrugadas voltam a ~70–85, se o jejum fica abaixo de 100 e se a fome e a vontade de doce somem.
 
 ## Pendências e perguntas abertas
-- 19/11: corpo pesado (não está doente) → **começou a fase low-carb em 19/11**. Acompanhar: corpo pesado, fome e vontade de doce devem sumir em 2–4 dias; madrugadas devem cair para ~70–85.
+- 19/11: corpo pesado + sem voz (possível virose/laringite leve desde 16/11: fator de confusão) → **começou a fase low-carb em 19/11**. Acompanhar: corpo pesado, fome e vontade de doce devem sumir em 2–4 dias; madrugadas devem cair para ~70–85.
 - Quantidade do panetone (18/11 12:11) e da Coca-Cola (18/11 15:49): não informadas.
 - Curva do KitKat de 18/11 16:58: aparece na próxima exportação. Comparar com o KitKat de 17/11 (95 → 138).
 - Teoria do Rodrigo (saída da cetose): madrugadas 75 → 92 → 113 → **90** (previsão 1 confirmada). Faltam as previsões 2 (picos menores com os dias) e 3 (madrugada mais baixa na fase low-carb).
