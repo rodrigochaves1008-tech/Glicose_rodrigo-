@@ -169,6 +169,21 @@ Madrugadas (00:00–04:25), uma noite por dia de carboidrato acumulado:
 - **Treino de superiores × inferiores:** superiores **subiu** a glicose (+17, adrenalina); inferiores **baixou** (−30, músculos grandes consumindo glicose).
 - Manhã em jejum de 18/11: **CV 3%** (91–104), a mais estável do projeto.
 
+## 19–20/11: início da fase 2 (low-carb)
+| Madrugada (00:00–04:30) | Média | Antes do café |
+|-------------------------|-------|---------------|
+| 18/11 | 90 | ~99 |
+| 19/11 (depois de panetone, Coca e KitKat em 18/11) | 96 (CV 3%) | ~102 |
+| **20/11 (dia 1 low-carb)** | **86** | **~94** |
+- **Previsão 3 começando a se confirmar:** depois de 1 dia sem carboidrato, a madrugada caiu para 86. Esperado: ~70–85 em mais 1–3 dias. O jejum de ~102 em 19/11 veio depois de um dia com muito açúcar, não de rotina low-carb.
+- Fase 2 até agora: **100% em 70–140**, máximo de 120 (no treino). Refeições low-carb sobem +5 a +15. Iogurte integral: +5.
+- **Manhãs em jejum com CV 3%** em 18, 19 e 20/11: é a assinatura dele sem carboidrato.
+- **KitKat repetido** (17/11 e 18/11): +43 e +45. Resposta reproduzível.
+- **Café + treino de braço somam** (+10 do café, +17 do treino → +26). O treino de força de superiores não "gasta" a glicose, sobe. Pernas continuam sendo o treino que baixa (−30 em 17/11).
+- **Subidas à tarde sem registro:** 18/11 15:28 (98 → 122) e 19/11 15:43 (97 → 111). Perguntar se houve café com açúcar, lanche, estresse ou outro fator nesse horário.
+- **Quedas bruscas com volta rápida** (19/11 11:33 e 20:13; 20/11 01:18 e 02:58; 18/11 18:04–18:24, de 145 a 72 em 25 min) parecem compressão/adesivo, não glicose real. O adesivo está soltando desde 16/11: reforçar com esparadrapo/Tegaderm.
+- Virose leve (19/11) sem efeito visível na glicose.
+
 ## Fatores de confusão a considerar
 - 19/11: corpo pesado + **perda de voz** (sem dor de garganta). Junto com a garganta de 16/11, sugere **virose/laringite leve** em curso desde 16/11. Isso reforça a hipótese de inflamação na madrugada alta de 17/11 e pode afetar a glicose dos primeiros dias da fase low-carb.
 - 16/11 (tarde e noite): garganta inflamada, já melhor em 17/11 de manhã. Inflamação pode elevar a glicose e a fome.

@@ -87,6 +87,10 @@ A ordem dentro de cada fase pode mudar. Anote sempre o horário de início.
 | Treino superiores em jejum | 18/11 ~05:08 | 100 | **117** | ~20 min | ~30 min | não | Subiu (adrenalina), ao contrário de inferiores |
 | Panetone (vontade, não teste) + fígado | 18/11 12:04/12:11 | 94 | 150 | ~50 min | ~3h10 (ondas 110–121) | não | Quantidade não informada |
 | A7 parcial: Coca-Cola | 18/11 15:49 | 110 | 124 | ~25 min | ~45 min | não | Quantidade não informada; subida pequena |
+| KitKat (repetição, ~1 h após a Coca) | 18/11 16:58 | 100 | **145,5** | ~56 min | ~2h35 (platô 117–124) | não (queda a 72 às 18:19 = provável artefato) | Igual ao de 17/11 (+43 × +45) |
+| Café low-carb (fase 2, dia 1) | 19/11 04:57 | 102 | 112,5 | ~45 min | ~1h35 | não | +10 |
+| Treino de braço **depois do café** low-carb | 20/11 04:34 / 05:15 | 94 | **120,5** | ~1 h após o café (~20 min de treino) | ~2 h após o café | não | +26 = café (+10) + treino (+17) somados |
+| Fava com toucinho, porção grande | 20/11 11:49 | 84 | ≥108 (ainda subindo) | — | — | — | **Parcial** (exportação acabou às 12:33). Comparar com a sopa de feijão (127) |
 | T1 tapioca c/ queijo | 16/11 07:26 | 92 | **144** | ~1h | não voltou a 90 em 3h (platô 104–121) | não | Abaixo da maizena (168). Queijo prolonga o platô |
 | T2 pastelão misto + Coca-Cola | 16/11 20:32 | 91 | **194,5** | ~1h15 (1º pico de 150 em ~45 min) | base às ~00:50 (~4h20); 3ª onda de 168 às 22:38 | não | **1º valor acima de 180** (~10 min). Noite + garganta inflamada |
 | (pré-plano) maizena c/ queijo/manteiga | 14/11 17:38 | 82 | 168 | 40 min | ~2h35 | **sim, 68** | jantar |

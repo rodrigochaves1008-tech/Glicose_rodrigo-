@@ -1,4 +1,4 @@
-# Estado atual do projeto (atualizado em 20/11/2026 ~12h)
+# Estado atual do projeto (atualizado em 20/11/2026 ~15h40)
 
 Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `ANALISES.md`, se precisar de detalhes.
 
@@ -16,7 +16,7 @@ Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `
 1. Descompactar numa pasta nova no scratchpad.
 2. `python3 -I scripts/processar_export.py <pasta>/dataPoints.jsonl relatorios/originais/AAAA-MM-DD_export_cgm.csv "AAAA-MM-DD HH:MM" "AAAA-MM-DD HH:MM"`
 3. Escrever o resumo em `relatorios/resumos/`, atualizar `ANALISES.md`, `TESTES.md` (resultados), o diário e este arquivo. Fazer commit e push.
-- **Última exportação processada: 18/11 17:19.** Os dias 18 (noite), 19 e 20/11 ainda não foram analisados.
+- **Última exportação processada: 20/11 12:33** (`relatorios/originais/2026-11-20_export_cgm.csv`, resumo `relatorios/resumos/2026-11-18_tarde_a_2026-11-20_almoco.md`).
 
 ## Plano
 - **Fase 1 (13–18/11), testes com carboidrato: ENCERRADA.** Ficaram para o próximo sensor: A1 arroz, A2 arroz + feijão, A3 banana, A4 pão francês, A5 pão + ovos, A6 ordem dos alimentos, C1 caminhada após comer, C3 academia após o pão, T3 pastelão sozinho, A7 Coca sozinha (com quantidade), repetir a tapioca.
@@ -25,11 +25,15 @@ Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `
   - Ele estima voltar à cetose em **24–25/11** → só ~2 dias de dados em cetose antes da troca. Fitas de cetona na urina (farmácia) foram sugeridas para confirmar.
 
 ## O que analisar na próxima exportação
-- Madrugadas de 19 e 20/11 (previsão: cair de ~90 para 70–85) e jejum (< 100).
-- KitKat de 18/11 16:58 (comparar com o de 17/11: 95 → 138).
-- Treino de braço **depois de comer** (20/11 05:15) × treino de braço em jejum (18/11: 100 → 117 → 98).
-- Fava em porção grande (20/11 11:49) × sopa de feijão (15/11: pico 127).
-- Iogurte integral (19/11 13:34, tamanho não informado).
+- **Fava em porção grande (20/11 11:49)**: só 44 min de dados (84 → 108, ainda subindo). Ver pico, tempo e volta à base × sopa de feijão (15/11: pico 127).
+- Madrugadas de 21/11 em diante: continuar caindo de 86 para 70–85? Jejum < 100?
+- Subidas à tarde sem registro (18/11 15:28 e 19/11 15:43): se repetirem, cruzar com o diário.
+
+## Resultados da exportação de 20/11 (resumo)
+- Fase 2: 100% em 70–140, máximo 120. Manhãs em jejum com CV 3% (18, 19, 20/11).
+- Madrugadas: 96 (19/11) → **86** (20/11). Antes do café: 102 → 94.
+- KitKat 18/11: +45 (igual a 17/11, +43). Queda a 72 às 18:19 = provável artefato.
+- Café + treino de braço (20/11): 94 → 120,5 → base em ~2 h. Os efeitos somam.
 
 ## Sintomas e fatores de confusão
 - 16/11: garganta inflamada (melhorou em 17/11). 19/11: **corpo pesado + sem voz** (provável virose/laringite leve). Inflamação pode subir a glicose.
@@ -39,7 +43,8 @@ Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `
 
 ## Teoria do Rodrigo (saída da cetose)
 - Madrugadas: 75 → 92 → 113 → **90** (15–18/11). Previsão 1 (estabilizar) confirmada.
-- Faltam: previsão 2 (picos menores com os dias de carboidrato; o chocotone de 400 g deu só 146) e previsão 3 (madrugadas mais baixas na fase low-carb).
+- Previsão 3 (madrugadas mais baixas no low-carb): **começando a se confirmar**: 96 (19/11) → 86 (20/11).
+- Falta: previsão 2 (picos menores com os dias de carboidrato; o chocotone de 400 g deu só 146) — fica para o próximo sensor.
 
 ## Principais conclusões até agora
 - Glicose bem regulada: base ~90–97, nenhum valor abaixo de 54 depois da calibração, só 1 pico acima de 180 (pastelão + Coca, 194,5). Volta à base em 2–3 h na maioria das refeições.
@@ -50,4 +55,4 @@ Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `
 - Jejum acima de 100 em dias de rotina low-carb, picos acima de 180 com refeições pequenas, volta à base acima de 3 h, ou rouquidão por mais de 2–3 semanas.
 
 ## Perguntas ainda sem resposta
-- Quantidade do panetone e da Coca-Cola de 18/11. Tamanho do iogurte integral de 19/11.
+- Quantidade do panetone e da Coca-Cola de 18/11. Tamanho do iogurte integral de 19/11. O que houve às ~15:30 de 18 e 19/11 (subidas sem registro)?
