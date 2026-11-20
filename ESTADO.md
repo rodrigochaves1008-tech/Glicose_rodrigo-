@@ -16,7 +16,7 @@ Leia este arquivo + `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `ANALISES.md` para r
 
 ## Plano
 - **Fase 1 (13–18/11): testes com carboidrato, ENCERRADA.** Ficaram para o próximo sensor: A1 arroz, A2 arroz + feijão, A3 banana, A4 pão francês, A5 pão + ovos, A6 ordem dos alimentos, C1 caminhada após comer, C3 academia após o pão, T3 pastelão sozinho, A7 Coca sozinha (com quantidade), repetir a tapioca (T1).
-- **Fase 2 (19–26/11, antecipada): low-carb sem interrupção, sem jantar.** 19/11 = dia 1. Linha de base: verificar se as madrugadas voltam a ~70–85, se o jejum fica abaixo de 100 e se a fome e a vontade de doce somem.
+- **Fase 2 (19–26/11, antecipada): low-carb sem interrupção, sem jantar.** 19/11 = dia 1. 20/11: fava em porção grande no almoço. Ele estima voltar à cetose entre 24 e 25/11 → só ~2 dias de dados em cetose antes da troca do sensor (27/11). Linha de base: verificar se as madrugadas voltam a ~70–85, se o jejum fica abaixo de 100 e se a fome e a vontade de doce somem.
 
 ## Pendências e perguntas abertas
 - 19/11: corpo pesado + sem voz (possível virose/laringite leve desde 16/11: fator de confusão) → **começou a fase low-carb em 19/11**. Acompanhar: corpo pesado, fome e vontade de doce devem sumir em 2–4 dias; madrugadas devem cair para ~70–85.
