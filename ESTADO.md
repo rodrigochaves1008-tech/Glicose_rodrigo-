@@ -1,4 +1,4 @@
-# Estado atual do projeto (atualizado em 19/11/2026)
+# Estado atual do projeto (atualizado em 20/11/2026)
 
 Leia este arquivo + `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `ANALISES.md` para retomar o trabalho.
 
