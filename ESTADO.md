@@ -22,9 +22,11 @@ Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `
 - **Fase 1 (13–18/11), testes com carboidrato: ENCERRADA.** Ficaram para o próximo sensor: A1 arroz, A2 arroz + feijão, A3 banana, A4 pão francês, A5 pão + ovos, A6 ordem dos alimentos, C1 caminhada após comer, C3 academia após o pão, T3 pastelão sozinho, A7 Coca sozinha (com quantidade), repetir a tapioca.
 - **Fase 2 (19–26/11), low-carb sem interrupção e sem jantar.** 19/11 = dia 1.
   - 20/11: fava com toucinho em **porção grande** no almoço (~40–60 g de carboidrato).
+  - 20/11 ~20:15: **jantar com carboidrato** (frango, batata frita, baião), fora do plano. Madrugada de 21/11 não conta como low-carb; cetose provavelmente mais tarde que 24–25/11.
   - Ele estima voltar à cetose em **24–25/11** → só ~2 dias de dados em cetose antes da troca. Fitas de cetona na urina (farmácia) foram sugeridas para confirmar.
 
 ## O que analisar na próxima exportação
+- **Jantar de 20/11 ~20:15** (frango + batata frita + baião): pico, duração, ondas e efeito na madrugada de 21/11 × pastelão (16/11, noite: 194,5) e pizza (15/11: 172). Se exportar só amanhã, a fava e o jantar saem juntos.
 - **Fava em porção grande (20/11 11:49)**: só 44 min de dados (84 → 108, ainda subindo). Ver pico, tempo e volta à base × sopa de feijão (15/11: pico 127).
 - Madrugadas de 21/11 em diante: continuar caindo de 86 para 70–85? Jejum < 100?
 - Subidas à tarde **sem comer** (18/11 15:28 e 19/11 15:43, confirmado): ver se repetem ~3–4 h depois do almoço (provável onda tardia de proteína/gordura) e cruzar com café puro, cochilo e estresse.
