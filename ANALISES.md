@@ -180,7 +180,7 @@ Madrugadas (00:00–04:25), uma noite por dia de carboidrato acumulado:
 - **Manhãs em jejum com CV 3%** em 18, 19 e 20/11: é a assinatura dele sem carboidrato.
 - **KitKat repetido** (17/11 e 18/11): +43 e +45. Resposta reproduzível.
 - **Café + treino de braço somam** (+10 do café, +17 do treino → +26). O treino de força de superiores não "gasta" a glicose, sobe. Pernas continuam sendo o treino que baixa (−30 em 17/11).
-- **Subidas à tarde sem registro:** 18/11 15:28 (98 → 122) e 19/11 15:43 (97 → 111). Perguntar se houve café com açúcar, lanche, estresse ou outro fator nesse horário.
+- **Subidas à tarde sem comer** (confirmado pelo Rodrigo em 20/11): 18/11 15:28 (98 → 122) e 19/11 15:43 (97 → 111). Hipóteses: (1) onda tardia do almoço: proteína e gordura viram glicose devagar (gliconeogênese) e podem subir a glicose 3–4 h depois, ainda mais com o fígado se readaptando; em 18/11 havia também o resto do panetone; (2) café puro, estresse ou cochilo/acordar (cortisol e adrenalina); (3) fim de uma compressão (o sensor "volta" de uma leitura baixa). Observar se a subida se repete ~3–4 h depois do almoço nos próximos dias.
 - **Quedas bruscas com volta rápida** (19/11 11:33 e 20:13; 20/11 01:18 e 02:58; 18/11 18:04–18:24, de 145 a 72 em 25 min) parecem compressão/adesivo, não glicose real. O adesivo está soltando desde 16/11: reforçar com esparadrapo/Tegaderm.
 - Virose leve (19/11) sem efeito visível na glicose.
 

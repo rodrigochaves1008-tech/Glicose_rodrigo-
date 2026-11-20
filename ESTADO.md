@@ -27,7 +27,7 @@ Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `
 ## O que analisar na próxima exportação
 - **Fava em porção grande (20/11 11:49)**: só 44 min de dados (84 → 108, ainda subindo). Ver pico, tempo e volta à base × sopa de feijão (15/11: pico 127).
 - Madrugadas de 21/11 em diante: continuar caindo de 86 para 70–85? Jejum < 100?
-- Subidas à tarde sem registro (18/11 15:28 e 19/11 15:43): se repetirem, cruzar com o diário.
+- Subidas à tarde **sem comer** (18/11 15:28 e 19/11 15:43, confirmado): ver se repetem ~3–4 h depois do almoço (provável onda tardia de proteína/gordura) e cruzar com café puro, cochilo e estresse.
 
 ## Resultados da exportação de 20/11 (resumo)
 - Fase 2: 100% em 70–140, máximo 120. Manhãs em jejum com CV 3% (18, 19, 20/11).
@@ -55,4 +55,4 @@ Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `
 - Jejum acima de 100 em dias de rotina low-carb, picos acima de 180 com refeições pequenas, volta à base acima de 3 h, ou rouquidão por mais de 2–3 semanas.
 
 ## Perguntas ainda sem resposta
-- Quantidade do panetone e da Coca-Cola de 18/11. Tamanho do iogurte integral de 19/11. O que houve às ~15:30 de 18 e 19/11 (subidas sem registro)?
+- Quantidade do panetone e da Coca-Cola de 18/11. Tamanho do iogurte integral de 19/11.
