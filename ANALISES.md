@@ -184,6 +184,14 @@ Madrugadas (00:00–04:25), uma noite por dia de carboidrato acumulado:
 - **Quedas bruscas com volta rápida** (19/11 11:33 e 20:13; 20/11 01:18 e 02:58; 18/11 18:04–18:24, de 145 a 72 em 25 min) parecem compressão/adesivo, não glicose real. O adesivo está soltando desde 16/11: reforçar com esparadrapo/Tegaderm.
 - Virose leve (19/11) sem efeito visível na glicose.
 
+## 20–21/11: fava × jantar com batata frita
+- **Fava em porção grande: 84 → 128,5** em ~1h45, base em ~3 h, sem rebote. Igual à sopa de feijão (127). **Leguminosa sobe pouco, mesmo em quantidade.**
+- **Jantar com frango + batata frita + baião: 88 → 184,5** em ~1h05, 4 ondas e base só em ~5h15 (01:28). 2º valor acima de 180 do projeto. Os dois valores acima de 180 vieram de **jantares com amido + fritura/gordura** (pastelão e este).
+- **Padrão firme:** à noite, amido + gordura → pico alto e curva longa em ondas (maizena 168, pizza 172, pastelão 194,5, batata/baião 184,5). De manhã, cargas parecidas subiram menos (pão integral 164; chocotone de 400 g à tarde, depois de dias de carboidrato, 146). Dois fatores prováveis: **horário** (sensibilidade à insulina menor à noite) e **estado de adaptação** (depois de dias low-carb, a resposta ao carboidrato é mais lenta).
+- Madrugada de 21/11 depois do jantar: 102 (97 depois das 01:30), contra 86 na noite low-carb anterior.
+- **Café com pouco açúcar: +4.** Quantidades pequenas de açúcar não aparecem na curva.
+- **Onda sem comer ~3–4 h depois do almoço pelo 3º dia** (18/11 15:28, 19/11 15:43, 20/11 15:23). Reforça a hipótese de efeito tardio do almoço (proteína/gordura → glicose). Pequena (+8 a +24) e sem relevância clínica.
+
 ## Fatores de confusão a considerar
 - 19/11: corpo pesado + **perda de voz** (sem dor de garganta). Junto com a garganta de 16/11, sugere **virose/laringite leve** em curso desde 16/11. Isso reforça a hipótese de inflamação na madrugada alta de 17/11 e pode afetar a glicose dos primeiros dias da fase low-carb.
 - 16/11 (tarde e noite): garganta inflamada, já melhor em 17/11 de manhã. Inflamação pode elevar a glicose e a fome.

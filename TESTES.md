@@ -90,7 +90,10 @@ A ordem dentro de cada fase pode mudar. Anote sempre o horário de início.
 | KitKat (repetição, ~1 h após a Coca) | 18/11 16:58 | 100 | **145,5** | ~56 min | ~2h35 (platô 117–124) | não (queda a 72 às 18:19 = provável artefato) | Igual ao de 17/11 (+43 × +45) |
 | Café low-carb (fase 2, dia 1) | 19/11 04:57 | 102 | 112,5 | ~45 min | ~1h35 | não | +10 |
 | Treino de braço **depois do café** low-carb | 20/11 04:34 / 05:15 | 94 | **120,5** | ~1 h após o café (~20 min de treino) | ~2 h após o café | não | +26 = café (+10) + treino (+17) somados |
-| Fava com toucinho, porção grande | 20/11 11:49 | 84 | ≥108 (ainda subindo) | — | — | — | **Parcial** (exportação acabou às 12:33). Comparar com a sopa de feijão (127) |
+| Fava com toucinho, porção grande | 20/11 11:49 | 84 | **128,5** | ~1h45 (1ª onda 122,5 em ~1h10) | ~3 h | não | Igual à sopa de feijão (127). Onda pequena sem comer às 15:23 (105) |
+| Jantar: frango + batata frita + baião (fora do plano) | 20/11 ~20:15 | 88 | **184,5** | ~1h05 | ~5h15 (4 ondas) | não | **2º valor acima de 180** (~10 min). Depois de 2 dias de low-carb |
+| Café da manhã low-carb (dia seguinte ao jantar) | 21/11 ~05:19 | ~100 | 115 | ~30 min | ~1h20 | não | +15 |
+| Café com açúcar (pouco) | 21/11 ~07:44 | 96,5 | 100,5 | ~30 min | ~1 h | não | **+4: sem efeito** |
 | T1 tapioca c/ queijo | 16/11 07:26 | 92 | **144** | ~1h | não voltou a 90 em 3h (platô 104–121) | não | Abaixo da maizena (168). Queijo prolonga o platô |
 | T2 pastelão misto + Coca-Cola | 16/11 20:32 | 91 | **194,5** | ~1h15 (1º pico de 150 em ~45 min) | base às ~00:50 (~4h20); 3ª onda de 168 às 22:38 | não | **1º valor acima de 180** (~10 min). Noite + garganta inflamada |
 | (pré-plano) maizena c/ queijo/manteiga | 14/11 17:38 | 82 | 168 | 40 min | ~2h35 | **sim, 68** | jantar |
