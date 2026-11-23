@@ -192,6 +192,22 @@ Madrugadas (00:00–04:25), uma noite por dia de carboidrato acumulado:
 - **Café com pouco açúcar: +4.** Quantidades pequenas de açúcar não aparecem na curva.
 - **Onda sem comer ~3–4 h depois do almoço pelo 3º dia** (18/11 15:28, 19/11 15:43, 20/11 15:23). Reforça a hipótese de efeito tardio do almoço (proteína/gordura → glicose). Pequena (+8 a +24) e sem relevância clínica.
 
+## 21–23/11: fim do sensor (falha)
+- **O sensor falhou**, não a bateria (bateria "OK" até o fim). Instável desde 22/11 ~18:35, "SensorMalfunction" a partir das 20:53, ~20 alarmes falsos de hipo urgente e **encerramento por defeito em 23/11 04:11** (9,5 dias de 14). Provável relação com o adesivo soltando desde 16/11.
+- **Desvio para baixo antes da falha:** base de ~75–85 desde a tarde de 21/11 (antes: 90–97). Valores absolutos desse período não são confiáveis; as subidas ainda servem com cautela.
+- **Carboidrato em várias doses pequenas** (bolo/cuscuz na manhã de 22/11): ondas de +25 a +54, cada uma voltando em ~1–1,5 h, sem passar de 150. De manhã, mesmo repetindo, ele controla bem.
+- **Baião sem batata frita, no almoço: +59, curto (~45 min) e com queda para 64.** Jantar com batata frita: +97 (88 → 184,5) e ~5 h de ondas. Reforça que **horário (noite) + fritura** pioram muito a resposta. Comparação fraca por causa do sensor.
+- Mungunzá com queijo e nata: +16 (× +57 sem). Pode ser efeito da gordura, mas o sensor já degradava: repetir.
+
+## Balanço do sensor 1 (13/11 a 22/11)
+- Período calibrado e confiável (14/11 16:43 a 21/11 ~13h): média ~101, **~94% em 70–140**, ~5% acima de 140, **0,3% acima de 180** (2 episódios de ~10 min, jantares com amido + gordura), <1% abaixo de 70 (quedas curtas, várias por compressão). GMI ~5,7% (estimativa por sensor; não substitui HbA1c).
+- **Sem carboidrato:** base 86–97, manhãs com CV 3%, refeições +5 a +15.
+- **Com carboidrato:** picos de 120–150 na maioria; acima de 160 só com amido refinado/fritura (pão integral 164, maizena 168, pizza+sorvete 172, batata frita+baião 184,5, pastelão+Coca 194,5). Volta à base em 1–3 h na maioria; curvas longas em ondas com gordura + amido à noite.
+- **Leguminosas sobem pouco** (feijão 127, fava porção grande 128,5).
+- **Treino:** pernas baixam (−30); braços sobem (+17), e somam com o café (+26).
+- Rebotes leves (64–76) depois de amido em algumas refeições, sem sintomas relatados.
+- Teoria da cetose: previsão 1 confirmada (madrugadas estabilizaram ~90); previsão 3 começou a se confirmar (86 em 20/11) mas foi interrompida pelos jantares com carboidrato e pelo fim do sensor.
+
 ## Fatores de confusão a considerar
 - 19/11: corpo pesado + **perda de voz** (sem dor de garganta). Junto com a garganta de 16/11, sugere **virose/laringite leve** em curso desde 16/11. Isso reforça a hipótese de inflamação na madrugada alta de 17/11 e pode afetar a glicose dos primeiros dias da fase low-carb.
 - 16/11 (tarde e noite): garganta inflamada, já melhor em 17/11 de manhã. Inflamação pode elevar a glicose e a fome.

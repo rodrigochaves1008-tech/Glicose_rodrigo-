@@ -15,7 +15,7 @@ def extrair(src):
         d = json.loads(l); k = d['data']['code']; t = d['start'][:16].replace('T', ' ')
         if k == 100:  # leitura do sensor
             p = json.loads(d['data']['payload'])
-            if p['value'] == 'NaN':
+            if p['value'] in ('NaN', 'Infinity', '-Infinity'):  # sem leitura / fora da escala do sensor (LOW/HIGH)
                 continue
             q = json.loads(d['meta'][0]['payload']) if d.get('meta') else {}
             rows.append((t, 'sensor', float(p['value']), p.get('trendDirection', ''), q.get('status', {}).get('calibration', '')))

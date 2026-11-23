@@ -94,6 +94,14 @@ A ordem dentro de cada fase pode mudar. Anote sempre o horário de início.
 | Jantar: frango + batata frita + baião (fora do plano) | 20/11 ~20:15 | 88 | **184,5** | ~1h05 | ~5h15 (4 ondas) | não | **2º valor acima de 180** (~10 min). Depois de 2 dias de low-carb |
 | Café da manhã low-carb (dia seguinte ao jantar) | 21/11 ~05:19 | ~100 | 115 | ~30 min | ~1h20 | não | +15 |
 | Café com açúcar (pouco) | 21/11 ~07:44 | 96,5 | 100,5 | ~30 min | ~1 h | não | **+4: sem efeito** |
+| Iogurte integral | 21/11 ~14:52 | ~87 | 116,5 | ~45 min | ~1h15 | não | +30 (em 19/11: +5). Tamanho não informado. Sensor talvez já lendo baixo |
+| Mungunzá **com queijo e nata** | 21/11 ~18:03 | 97,5 | 113,5 | ~45 min | — (sensor instável a partir de 19:15) | — | +16 × +57 sem queijo/nata (17/11). **Pouco confiável**: repetir |
+| Café com açúcar + bolo, em jejum | 22/11 ~05:55 | 94 | **148** | ~45 min | ~1h20 | leve, ~80 | +54 |
+| Bolo/cuscuz com carne, várias vezes (horários estimados) | 22/11 ~08:20, ~09:20, ~10:20 | 78–97 | 120,5 / 144,5 / 142,5 | ~25–30 min | ~1–1,5 h cada | não | Ondas sobrepostas; sem internet para registrar |
+| Baião com carne, **sem batata frita** (almoço) | 22/11 ~13:00 | 74,5 | 133,5 | ~20 min | ~45 min | **sim, 64** | +59 × jantar com batata frita (184,5). Sensor lendo baixo: comparação fraca |
+| Refeição low-carb (itens do café) | 22/11 16:00 | 77 | 87,5 | ~15 min | ~30 min | não | +10 |
+
+**Sensor encerrado com falha em 23/11 04:11** (instável desde 22/11 ~18:35; leituras provavelmente baixas desde a tarde de 21/11). Testes pendentes passam para o próximo sensor.
 | T1 tapioca c/ queijo | 16/11 07:26 | 92 | **144** | ~1h | não voltou a 90 em 3h (platô 104–121) | não | Abaixo da maizena (168). Queijo prolonga o platô |
 | T2 pastelão misto + Coca-Cola | 16/11 20:32 | 91 | **194,5** | ~1h15 (1º pico de 150 em ~45 min) | base às ~00:50 (~4h20); 3ª onda de 168 às 22:38 | não | **1º valor acima de 180** (~10 min). Noite + garganta inflamada |
 | (pré-plano) maizena c/ queijo/manteiga | 14/11 17:38 | 82 | 168 | 40 min | ~2h35 | **sim, 68** | jantar |
