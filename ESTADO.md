@@ -1,4 +1,6 @@
-# Estado atual do projeto (atualizado em 23/11/2026 ~06h30)
+# Estado atual do projeto
+
+> **23/11: o Rodrigo decidiu NÃO usar outro sensor.** A fase de coleta acabou. Entregue o guia final `guias/guia_alimentar_rodrigo.pdf` (gerado por `scripts/graficos_guia.py` + `scripts/gerar_guia_pdf.py`). Daqui em diante: dúvidas sobre alimentação/hábitos usando os dados já coletados. (atualizado em 23/11/2026)
 
 Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `ANALISES.md`, se precisar de detalhes.
 
@@ -8,8 +10,6 @@ Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `
 
 ## Sensor
 - **Sensor 1 (braço direito, aplicado em 13/11 ~14:55) ENCERRADO COM FALHA em 23/11 04:11** ("SessionEndedFault"). Instável desde 22/11 ~18:35; leituras provavelmente baixas desde a tarde de 21/11. **Bateria OK até o fim.** ~20 alarmes falsos de hipo urgente na noite de 22/11.
-- Sugerido: pedir **reposição do sensor ao suporte da Roche/Accu-Chek** (sensor que falhou antes de 14 dias costuma ser trocado).
-- Próximo sensor: **braço esquerdo**, ter glicosímetro em casa e calibrar logo no início. Reforçar o adesivo (Tegaderm/esparadrapo, nunca cola) desde o 1º dia.
 - Alertas no app: baixa 60, alta 180.
 
 ## Como processar uma exportação (Exportar.zip)
@@ -26,7 +26,7 @@ Ao retomar, leia este arquivo e depois `CLAUDE.md`, `PERFIL.md`, `TESTES.md` e `
   - 20/11 ~20:15: **jantar com carboidrato** (frango, batata frita, baião), fora do plano → pico 184,5. Madrugada de 21/11 não conta como low-carb; cetose provavelmente ~25–26/11.
   - 21/11: mungunzá com queijo e nata. 22/11: café com açúcar + bolo, bolo/cuscuz várias vezes, baião com carne.
 
-## Para o próximo sensor
+## Testes que ficaram sem fazer (não haverá novo sensor)
 - Testes que faltaram: A1 arroz, A2 arroz + feijão, A3 banana, A4 pão francês, A5 pão + ovos, A6 ordem dos alimentos, C1 caminhada após comer, C3 academia após o pão, T3 pastelão sozinho, A7 Coca sozinha (com quantidade), repetir a tapioca, **repetir o mungunzá com e sem queijo/nata**, **baião com e sem batata frita no mesmo horário**.
 - Fase low-carb sem interrupção (madrugadas e volta à cetose): ainda não medida até o fim.
 - Sem internet: anotar os horários no celular e mandar depois.
